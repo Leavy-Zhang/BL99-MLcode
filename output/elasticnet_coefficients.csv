@@ -1,0 +1,2015 @@
+metabolite,coefficient,abs_coefficient
+Inosine,-0.2397540504200607,0.2397540504200607
+"Tris(2,4-di-tert-butylphenyl)phosphate",-0.13765958439736034,0.13765958439736034
+Glycolithocholic acid 3-sulfate,0.09663926089960624,0.09663926089960624
+12-Hydroxystearic acid,0.09008977710906955,0.09008977710906955
+beta-Alanine,-0.08260303248664444,0.08260303248664444
+5-Methylcytosine,0.08170176242291642,0.08170176242291642
+Isoleucine,0.07924780576243434,0.07924780576243434
+Levulinic acid,0.07045908945545142,0.07045908945545142
+3-Oxocholic acid,0.06976014585248537,0.06976014585248537
+2-Aminoisobutyric acid,0.06513570309686564,0.06513570309686564
+N-Acetylmuramic acid,-0.0635942572567629,0.0635942572567629
+Hesperetin 7-neohesperidoside,-0.0619412538699502,0.0619412538699502
+Azelaic acid,0.061643681141274005,0.061643681141274005
+Methyl beta-D-Galactopyranoside,-0.05867493044884982,0.05867493044884982
+Hypoxanthine,-0.057583328230081145,0.057583328230081145
+N-Acetylhistamine,-0.05734275309224024,0.05734275309224024
+2-oxindole-3-acetate,-0.05734119861975285,0.05734119861975285
+Clopidogrel carboxylic acid,0.05411122715189295,0.05411122715189295
+Anserine,0.052068461900113716,0.052068461900113716
+Cholenate,-0.051709550397098965,0.051709550397098965
+Cholic acid,0.04981712782685398,0.04981712782685398
+LacCer(d18:1/16:0),-0.049660710708203826,0.049660710708203826
+Deoxycholic acid,-0.049034299011127776,0.049034299011127776
+Hypaphorine,-0.048847572846682376,0.048847572846682376
+Dauricine,-0.048388305003021485,0.048388305003021485
+Nonaethylene glycol,0.03908521615577044,0.03908521615577044
+Taurine,0.0342519510461876,0.0342519510461876
+Glutamine,-0.03403401938391482,0.03403401938391482
+Cyclamic acid,0.03336692518610008,0.03336692518610008
+Val-Ile,-0.033027202789522196,0.033027202789522196
+13(S)-HODE,-0.032393748792555625,0.032393748792555625
+Adenine,0.03214568657850818,0.03214568657850818
+Octadecanedioic acid,-0.03197081597148413,0.03197081597148413
+Leucine,0.030460090894329543,0.030460090894329543
+N-Methylnicotinamide,-0.028300949091096195,0.028300949091096195
+Carnitine,0.02733684289819162,0.02733684289819162
+7-Ketolithocholic acid,-0.027192445166328,0.027192445166328
+Pyridoxamine,0.026996852533515577,0.026996852533515577
+Threonine,0.0269946022077712,0.0269946022077712
+Saccharin,0.026766295726539754,0.026766295726539754
+"1,5-Isoquinolinediol",-0.02589413818137587,0.02589413818137587
+Dodecanedioic acid,-0.025859572455387832,0.025859572455387832
+Medicagenic acid,0.02548839034828291,0.02548839034828291
+Guanine,-0.024478917749849626,0.024478917749849626
+5-Hydroxyhexanoic acid,0.0242512312216573,0.0242512312216573
+Pseudouridine,-0.024220032903156122,0.024220032903156122
+Tomatidine,0.023829415573638588,0.023829415573638588
+2-Piperidone,-0.023218911590574536,0.023218911590574536
+3-Methylthiopropionic acid,-0.02301001035681839,0.02301001035681839
+Adipic acid,-0.02249046334551566,0.02249046334551566
+Galactose,0.02222573704669504,0.02222573704669504
+Glutaric acid,0.02193627371343708,0.02193627371343708
+NAE(18:2),0.021669505016697992,0.021669505016697992
+N-Acetylglucosamine,-0.02138241084288901,0.02138241084288901
+Pentaethylene glycol,0.021172470963593214,0.021172470963593214
+Neferine,-0.02073878663252327,0.02073878663252327
+Glycocholic acid,0.02010861693142609,0.02010861693142609
+Val-Val,-0.01986247313210973,0.01986247313210973
+Trehalose,-0.019494832104424376,0.019494832104424376
+Quillaic acid,0.019345414166052694,0.019345414166052694
+Creatine,-0.019004846555449734,0.019004846555449734
+Metformin,0.01896935302768232,0.01896935302768232
+alpha-Ketoglutaric acid (alpha-KG),0.018921751206561307,0.018921751206561307
+3-Phenylpropanoic acid,-0.018224453258914343,0.018224453258914343
+4-Hydroxyisoleucine,-0.017613429325901833,0.017613429325901833
+Car(18:1),-0.01761126487196865,0.01761126487196865
+Oleic acid,0.017499790580046398,0.017499790580046398
+4-Methyl-5-thiazoleethanol,-0.016801286413494584,0.016801286413494584
+"7,8-Dihydroxyflavone",-0.016419553210568094,0.016419553210568094
+Duroquinone,0.016390462501492946,0.016390462501492946
+Dehydrolithocholic acid,-0.016245688488165058,0.016245688488165058
+Melitracen (hydrochloride),0.01619451145744186,0.01619451145744186
+6-Methylnicotinamide,0.015557861637231387,0.015557861637231387
+3-Methyladipic acid,0.01554240130609114,0.01554240130609114
+7-Methylguanine,0.01550118386636016,0.01550118386636016
+Pyridoxine,-0.015328378495371227,0.015328378495371227
+"3,3-Dimethylglutaric acid",-0.015235761244924735,0.015235761244924735
+Tryptophan,-0.015128729717461244,0.015128729717461244
+Leu-Val,-0.014748574091677586,0.014748574091677586
+Stachydrine,0.014451900921149148,0.014451900921149148
+Trigonelline,-0.014324169827126481,0.014324169827126481
+Platycodigenin,0.014018550675932214,0.014018550675932214
+Ligustilide,0.013796490076415155,0.013796490076415155
+3-Amino-4-methylpentanoic acid,0.0137726609785884,0.0137726609785884
+Arabitol,-0.013714934021339326,0.013714934021339326
+Pyroglutamic acid,-0.013370722390404743,0.013370722390404743
+Phenylacetylglutamine,-0.013217429367347608,0.013217429367347608
+2-Hydroxyglutaric acid,-0.012558178599457551,0.012558178599457551
+3-(3-Hydroxyphenyl)propanoic acid,-0.012290185757396961,0.012290185757396961
+Maltose,0.012137563256240134,0.012137563256240134
+Betaine,0.012097775240826758,0.012097775240826758
+2-Hydroxyhexanoic acid,-0.011567763280492173,0.011567763280492173
+Glycolate,-0.01147897087824713,0.01147897087824713
+3alpha-Hydroxy-12-oxo-5beta-cholan-24-oic acid,-0.011241962005787575,0.011241962005787575
+Prostaglandin I2 (PGI2),-0.01118955385366839,0.01118955385366839
+N-Tigloylglycine,0.011071197584015835,0.011071197584015835
+3-Methylhistidine,-0.01067768066428616,0.01067768066428616
+Sphingosine,-0.010601814388711852,0.010601814388711852
+2'-Deoxyuridine,-0.010560887311976958,0.010560887311976958
+Lactate,-0.01054916628568334,0.01054916628568334
+3-Sulfopropanoic acid,0.010266544775967208,0.010266544775967208
+Caproic acid,0.010071072293291504,0.010071072293291504
+(-)-Catechin,-0.010043940696771813,0.010043940696771813
+Deoxyadenosine,-0.01001391753590373,0.01001391753590373
+"5,2'-O-Dimethylcytidine",-0.009350082091584657,0.009350082091584657
+3-Hydroxybutyric acid,0.0091235507402553,0.0091235507402553
+Indole-3-propionic acid,-0.008872838674218444,0.008872838674218444
+Maltotriose,0.008583441010068414,0.008583441010068414
+Tetraethylene glycol,-0.008456003143319823,0.008456003143319823
+Rosuvastatin,0.008388532366634366,0.008388532366634366
+Flavin adenine dinucleotide (FAD),-0.00837118819521125,0.00837118819521125
+Isovaleric acid,-0.008083627525640926,0.008083627525640926
+PC(P-16:0/0:0),0.008009555983793387,0.008009555983793387
+Pantothenic acid,-0.0078006705352212866,0.0078006705352212866
+Solanidine,-0.007520461762729595,0.007520461762729595
+LPC(16:0),-0.007152166383700053,0.007152166383700053
+Daltogen,-0.007055632483139331,0.007055632483139331
+LPE(18:1(9Z)/0:0),-0.0070362586074166015,0.0070362586074166015
+Methylimidazoleacetic acid,0.006984599347477178,0.006984599347477178
+2-Ethyl-2-hydroxybutyric acid,-0.006981854269184877,0.006981854269184877
+"N1,N8-Diacetylspermidine",-0.006670464194481605,0.006670464194481605
+Ursocholic acid,0.006600017761292962,0.006600017761292962
+N2-Acetyllysine,-0.006584837108621,0.006584837108621
+Ganoderic acid A,-0.00636049298558151,0.00636049298558151
+N-Acetylphenylalanine,-0.00622748231649024,0.00622748231649024
+"5,6-Dihydrouridine",-0.00586253865708935,0.00586253865708935
+5'-Deoxyadenosine,-0.005675978255118513,0.005675978255118513
+N-Acetylvaline,-0.005400185513934459,0.005400185513934459
+2-Methylbutyrylglycine,-0.005277320325725115,0.005277320325725115
+Acetylproline,-0.0052615638658263676,0.0052615638658263676
+Glycylleucine,-0.005227382588351903,0.005227382588351903
+N-Acetylalanine,-0.005173906359407956,0.005173906359407956
+Cholic acid 7-sulfate,-0.005120195971280847,0.005120195971280847
+Thr-Leu,-0.005009384704983497,0.005009384704983497
+Malic acid,0.00496461111441699,0.00496461111441699
+Phenylalanine,-0.004916121362716421,0.004916121362716421
+"3,4-Diaminoanisole",0.004901369649020395,0.004901369649020395
+5-Hydroxyindole-3-acetic acid,0.004891194967978967,0.004891194967978967
+Nicotinamide adenine dinucleotide (NAD),-0.00487077079828264,0.00487077079828264
+DHA ethyl ester,-0.004858874892617233,0.004858874892617233
+"1-(Hydroxymethyl)-5,5-dimethylhydantoin",0.004763080912704024,0.004763080912704024
+Tazarotene,-0.004654523419543215,0.004654523419543215
+Allolithocholic acid,-0.004554993740117167,0.004554993740117167
+Urocanic acid,-0.00451756621356114,0.00451756621356114
+"3,6-Dioxo-5alpha-cholan-24-oic acid",-0.004514608413111252,0.004514608413111252
+LPC(18:0/0:0),-0.004332129651644563,0.004332129651644563
+H-Val-Ala-OH,0.004321485099879699,0.004321485099879699
+Euscaphic acid,0.004264321558720235,0.004264321558720235
+alpha-Ketoisovaleric acid,-0.004251991217038356,0.004251991217038356
+Leu-Tyr,0.004246143549271372,0.004246143549271372
+Acetoin,0.004230733949113562,0.004230733949113562
+5-Methyl DL-glutamate,0.00420774580534691,0.00420774580534691
+Pyruvate,-0.0041746855786303815,0.0041746855786303815
+Arg-Ala,-0.004147441928139254,0.004147441928139254
+Synephrine,0.004064603562899404,0.004064603562899404
+MeAIB,0.003997359984727371,0.003997359984727371
+Steviolbioside,0.003951859702051303,0.003951859702051303
+LPC(18:2/0:0),-0.003951467845117237,0.003951467845117237
+N6-Acetyllysine,-0.0038750686584116283,0.0038750686584116283
+Glyco-gamma-muricholic acid,-0.003844329366241826,0.003844329366241826
+Amlodipine,-0.00381065819086563,0.00381065819086563
+2-Hydroxystearic acid,0.003809592225578526,0.003809592225578526
+Formylmethionine,0.003774505783606787,0.003774505783606787
+"Arabinono-1,4-lactone",-0.0037399983072403764,0.0037399983072403764
+2-Carbamoylpyridine-3-carboxylic acid,-0.0036423659966909267,0.0036423659966909267
+5-Acetylamino-6-amino-3-methyluracil (AAMU),0.003588253735062121,0.003588253735062121
+"2-(4-Chlorophenyl)-1,3-benzoxazol-5-amine",-0.0035801567644175064,0.0035801567644175064
+"N6,N6,N6-Trimethyllysine",0.003505287778037875,0.003505287778037875
+"3,5-Dimethoxycinnamic acid",0.0033546457766518746,0.0033546457766518746
+"2-[(1-Methyl-1H-pyrazolo[3,4-d]pyrimidin-4-yl)amino]ethanol",0.003346903921747084,0.003346903921747084
+Cytidine,-0.003320902707585872,0.003320902707585872
+PC(16:0/18:1(9Z)),-0.0031745741577893045,0.0031745741577893045
+Cyclo(glycylprolyl),-0.003090451747872051,0.003090451747872051
+3-Pyridylacetic acid,-0.003071596554029722,0.003071596554029722
+(3-Carboxypropyl)trimethylammonium cation,0.003030467963717731,0.003030467963717731
+Phenylephrine,0.0030103696853068865,0.0030103696853068865
+Lysine,0.0029867546038972446,0.0029867546038972446
+Polygalacic acid,0.0028579050044925058,0.0028579050044925058
+Palmitic acid,0.002853964835936881,0.002853964835936881
+8-Hydroxycarbostyril,-0.0028133809986717684,0.0028133809986717684
+"6,7-Bis(3-hydroxyphenyl)pteridine-2,4-diamine",-0.0027963015917931507,0.0027963015917931507
+Dimethylmalonic acid,0.0027941627436656115,0.0027941627436656115
+Dronedarone,-0.0027702239383119234,0.0027702239383119234
+Leu-Ile,-0.002720521374928818,0.002720521374928818
+Atenolol,-0.0026889398801888853,0.0026889398801888853
+7-Methylxanthine,-0.0025854643089261793,0.0025854643089261793
+3-Methyl-1H-pyrazole-4-carbaldehyde,-0.0025741660895144958,0.0025741660895144958
+Valine,0.00252307127934326,0.00252307127934326
+Tropinone,0.002503053423637876,0.002503053423637876
+2-Hydroxyethanesulfonic acid,-0.0024996951858136545,0.0024996951858136545
+Glutamate,0.00237189559275791,0.00237189559275791
+"2,3-Dinor-",-0.0023007128950881797,0.0023007128950881797
+Acetylleucine,-0.00229174485622968,0.00229174485622968
+Isoverticine,0.0022732211843365163,0.0022732211843365163
+4-Phenylbutanoic acid,-0.0022510701893124177,0.0022510701893124177
+"6-(3,4-Dimethoxyphenyl)-1,3,5-triazine-2,4-diamine",0.0022202289225679594,0.0022202289225679594
+M372T179,-0.0022184826433290033,0.0022184826433290033
+Lauramine oxide,-0.0021677046943380657,0.0021677046943380657
+2-Ketocaproic acid,-0.002145052939915238,0.002145052939915238
+Ile-Leu,-0.0020573331368662633,0.0020573331368662633
+3-Pyridol,0.002034928703243789,0.002034928703243789
+Glycohyodeoxycholic acid,-0.0020206486359463263,0.0020206486359463263
+Tolazoline (hydrochloride),0.0019865817367926797,0.0019865817367926797
+2-Aminopurine,0.0019817768055623935,0.0019817768055623935
+N-Methyl-1-deoxynojirimycin,0.0019283501950292747,0.0019283501950292747
+Maltobionate,-0.0018935932447522225,0.0018935932447522225
+1-Methylnicotinamide,0.0018697913139424276,0.0018697913139424276
+"1.alpha.-Methyl-5.alpha.-androstan-3.alpha.,17.beta.-diol glucuronide",-0.001860248105136359,0.001860248105136359
+Norepinephrine,-0.0018485786043144748,0.0018485786043144748
+Glycoursodeoxycholic acid,0.0018193794220261307,0.0018193794220261307
+Pipemidic acid,-0.0018128060830159788,0.0018128060830159788
+Val-Met,0.0017881960506118282,0.0017881960506118282
+5-Methoxytryptamine,0.0017869798456656809,0.0017869798456656809
+Setariol,-0.0017593092031081383,0.0017593092031081383
+Stercobilin,0.0017373041106264477,0.0017373041106264477
+Ribitol,-0.0016619843125549767,0.0016619843125549767
+"4-Hydroxy-2',4',6'-trimethoxychalcone",0.0015871052094980072,0.0015871052094980072
+Dimetridazole,0.0015693968884187466,0.0015693968884187466
+cis-7-Hexadecenoic acid,0.0015582770818034551,0.0015582770818034551
+Maltotetraose,0.001522660528648595,0.001522660528648595
+Tauro-beta-muricholic acid,0.001471886640909813,0.001471886640909813
+Thymine,-0.0014277996371157117,0.0014277996371157117
+Hygric acid,0.0014032839050418225,0.0014032839050418225
+2-Hydroxy-3-methylbutyric acid,0.0013366552205425013,0.0013366552205425013
+3-Amino-4-hydroxybenzoic acid,-0.0013256900447249458,0.0013256900447249458
+Ornithine,-0.0013135972221321411,0.0013135972221321411
+Prolylalanine,-0.0012980488194435727,0.0012980488194435727
+2-Methylnicotinamide,-0.001248069623142111,0.001248069623142111
+Taurohyodeoxycholic acid,0.0012094064771958825,0.0012094064771958825
+Sucralose (Xenobiotic),-0.0011819414497052975,0.0011819414497052975
+Car(18:0),0.0011688092092969925,0.0011688092092969925
+3-Aminobutanoic acid,-0.0011515063442429474,0.0011515063442429474
+p-Toluquinone,0.0011181800223542722,0.0011181800223542722
+Colutehydroquinone,0.0010908302220787919,0.0010908302220787919
+18-alpha-Glycyrrhetinic acid,0.0010898828966454843,0.0010898828966454843
+Deoxycytidine,0.0010804966568998063,0.0010804966568998063
+Pinolenic acid,-0.0010715401561760993,0.0010715401561760993
+Allocholic acid,-0.0010521455041629694,0.0010521455041629694
+Isonicotinamide,-0.0010326528392210455,0.0010326528392210455
+Tyramine,-0.0010219540144595538,0.0010219540144595538
+5-(1H-Benzimidazol-2-ylsulfanyl)furan--2-carbaldehyde,-0.0010060784899642923,0.0010060784899642923
+Succinic_anhydride,-0.0010059320005284692,0.0010059320005284692
+LPE(P-16:0),-0.0009664396233508943,0.0009664396233508943
+Tryptamine,0.0009648859485794219,0.0009648859485794219
+AG 1295,-0.0009560898818421025,0.0009560898818421025
+Peimine,0.0009486742789059627,0.0009486742789059627
+Terephthalic-Acid,-0.0009448935014493972,0.0009448935014493972
+Foeniculoside_V,-0.0009055496021247551,0.0009055496021247551
+Plantaricin_BN,0.0008905562176867124,0.0008905562176867124
+Arachidonic acid (AA),-0.0008761673977780126,0.0008761673977780126
+"6,15-Diketo-13,14-dihydroprostaglandin F1.alpha.",-0.0008706587997033441,0.0008706587997033441
+Valsartan,0.0008508385607904301,0.0008508385607904301
+Evocarpine,-0.000843302927671796,0.000843302927671796
+12-Methyltridecanoic acid,0.000839220207430017,0.000839220207430017
+Pergolide,-0.0008329069650771766,0.0008329069650771766
+4-Aminobutyric acid (GABA),0.000805571632151561,0.000805571632151561
+"5,6-Dihydroxyindole",0.000796785425906135,0.000796785425906135
+Embelin,0.0007764924740502028,0.0007764924740502028
+Butanoic acid,0.0007521788180014948,0.0007521788180014948
+"1,3-Dimethyl-6-(propylamino)-2,4(1H,3H)-pyrimidinedione",0.0007486641120306149,0.0007486641120306149
+Hemiphloin,0.0007430609682740477,0.0007430609682740477
+"3-[5-(4-Pyridinyl)-4H-1,2,4-triazol-3-yl]pyridine",-0.0007302566018924577,0.0007302566018924577
+Alisol C 23-acetate,0.000720568274478739,0.000720568274478739
+N-Acetyl-D-galactosamine 4-sulfate,0.000692992884142949,0.000692992884142949
+Tridecanoylcarnitine,-0.0006766349576094739,0.0006766349576094739
+Harman,0.0006728656563816343,0.0006728656563816343
+1-Methylguanine,-0.0006611261931951125,0.0006611261931951125
+2-Aminobutyric acid,-0.0006224752836022032,0.0006224752836022032
+Substance P (9-11),0.0006054688445290632,0.0006054688445290632
+2-Hydroxypyridine,0.0005990231060143337,0.0005990231060143337
+Pro-Phe,-0.000564609415735797,0.000564609415735797
+3-AMINO-2-PIPERIDONE,-0.0005489288060573117,0.0005489288060573117
+Alanyl-Proline,-0.0005452381354691311,0.0005452381354691311
+2-Methyl-5-HT,0.0005095005366673946,0.0005095005366673946
+"5-(2-Furyl)-4H-1,2,4-triazol-3-amine",-0.0005059003201029383,0.0005059003201029383
+Cellobiose,0.0005056609646700574,0.0005056609646700574
+L-Homophenylalanine,0.0005048547275041656,0.0005048547275041656
+Phe-Leu,-0.0005016582440921997,0.0005016582440921997
+Myristic acid,-0.0005009165790706312,0.0005009165790706312
+Citrulline,0.0005005257842701947,0.0005005257842701947
+2-Cyclopropyl-1H-indole,0.0004874467533213235,0.0004874467533213235
+N-Acetylmethionine,-0.0004723375227169117,0.0004723375227169117
+Ile-Glu,-0.000466614589627389,0.000466614589627389
+Prolylhydroxyproline,0.000460096326257604,0.000460096326257604
+2-(2-Methyl-1H-imidazol-1-yl)-5-(trifluoromethyl)phenylamine,-0.0004438249146798694,0.0004438249146798694
+Puerarin,-0.0004349431072113555,0.0004349431072113555
+Triamterene,-0.00043349161603888824,0.00043349161603888824
+"3,3-Dimethylpyrrolidin-2-one",0.0004326273281157912,0.0004326273281157912
+Losartan Carboxylic Acid,0.00041468763322388165,0.00041468763322388165
+Cordycepin,-0.0004092207618781336,0.0004092207618781336
+Ursodeoxycholic acid,-0.0003967728270566761,0.0003967728270566761
+"1,1-Dimethyl-4-phenylpiperazin-1-ium cation",-0.0003784990978366064,0.0003784990978366064
+Demethylcitalopram,0.000373726169257237,0.000373726169257237
+6-Deoxyfagomine,0.0003721476476541552,0.0003721476476541552
+Tauro-gamma-muricholic acid,-0.0003594753832064829,0.0003594753832064829
+Idoxanthin,-0.00035814726552987143,0.00035814726552987143
+2-Hydroxyadenine,-0.0003511421472284341,0.0003511421472284341
+Hydroxyacetone,-0.0003369633569838436,0.0003369633569838436
+N-Acetylneuraminic acid,0.00032246410272345106,0.00032246410272345106
+Palmitoylcarnitine (Car(16:0)),0.00031166036161683376,0.00031166036161683376
+5-ketocaproate,0.0003112849334806319,0.0003112849334806319
+LPE(14:0),-0.00029961615667575223,0.00029961615667575223
+beta-Muricholic acid,0.000296337561217423,0.000296337561217423
+Phosphate,-0.0002853973904285948,0.0002853973904285948
+3-Hydroxypropionic acid (beta-lactic acid),-0.00027916529108069536,0.00027916529108069536
+His-His,-0.0002743001840843736,0.0002743001840843736
+Uridine,0.0002613628509041454,0.0002613628509041454
+LPC(13:0),-0.00026112646670835353,0.00026112646670835353
+"N,N-Diethyl-2-aminoethanol",0.00025974931302747925,0.00025974931302747925
+LPC(16:1),-0.00025102028620284026,0.00025102028620284026
+(5-Chloro-1H-benzimidazol-2-yl)methanol,-0.00024361453794262666,0.00024361453794262666
+Catechin,-0.00024063037592934246,0.00024063037592934246
+5-Phenylisoxazol-3-ol,-0.0002400633514361398,0.0002400633514361398
+Rolofylline,0.000235010505990068,0.000235010505990068
+"Methanone, [1-(5-fluoropentyl)-7-hydroxy-1H-indol-3-yl]-1-naphthalenyl-",0.0002260485248799656,0.0002260485248799656
+"1-(1-Hydroxynaphthalen-2-yl)-3-phenylpropane-1,3-dione",0.0002114436557825638,0.0002114436557825638
+"2,4,6-Trimethylpyridine",0.00020866278895233706,0.00020866278895233706
+1-[4-(2-Methoxyphenyl)-1-piperazinyl]-3-(1-naphthyloxy)-2-propanol,-0.0001922406290047755,0.0001922406290047755
+M124T211,0.00019175190395251816,0.00019175190395251816
+Benzoic acid,0.0001888977768869184,0.0001888977768869184
+3-Phenylbutyric acid,-0.00018794472962684703,0.00018794472962684703
+7-Keto-8-aminopelargonic acid,0.00017861218021661068,0.00017861218021661068
+Adenosine,-0.00017834911352774838,0.00017834911352774838
+"9H-Carbazole, 2-[(2E)-2-(1-azabicyclo[2.2.2]oct-3-ylidene)-2-fluoroethoxy]-",0.0001685513276353635,0.0001685513276353635
+alpha-Muricholic acid,0.00015557924787757674,0.00015557924787757674
+Lithocholic acid 3-sulfate,-0.00015205735781591086,0.00015205735781591086
+Vigabatrin,-0.00014135622063265188,0.00014135622063265188
+Tauroursodeoxycholic acid,0.0001411700548081012,0.0001411700548081012
+Deoxyinosine,0.00013995628768271473,0.00013995628768271473
+Myristoylcarnitine,0.0001371453244078252,0.0001371453244078252
+Valeric acid,-0.0001369824739291602,0.0001369824739291602
+Mefenamic acid,-0.00013684173790889456,0.00013684173790889456
+"Thieno[2,3-d]pyrimidine, 4-[4-(4,5-dihydro-5,5-dimethyl-2-thiazolyl)-1-piperazinyl]-6-propyl-",0.00012785357295104637,0.00012785357295104637
+Alsterpaullone,-0.00012444446053318022,0.00012444446053318022
+2-Methyl-3-[(tetrahydro-2-furanylcarbonyl)amino]benzoic acid,-0.00012160342741216672,0.00012160342741216672
+Palmatine cation,-0.00010975491470769719,0.00010975491470769719
+M385T159,0.00010858227201299385,0.00010858227201299385
+4-Oxohexanoic acid,0.00010066972315390212,0.00010066972315390212
+Norleucine,0.00010047080462308621,0.00010047080462308621
+Stearic acid,-9.522176697200758e-05,9.522176697200758e-05
+5-Heptyltetrahydro-2-oxo-3-furancarboxylic_acid,-9.386946685320088e-05,9.386946685320088e-05
+Indole-3-methyl acetate,-8.645176584695842e-05,8.645176584695842e-05
+Perchloroterephthalic acid,8.206404350060616e-05,8.206404350060616e-05
+3alpha-Hydroxy-6-oxo-5alpha-cholan-24-oic acid,-8.171811962574661e-05,8.171811962574661e-05
+"5-Methyl-2-oxo-1,3-oxazolidine-4-carboxylic acid",-8.033186691829685e-05,8.033186691829685e-05
+N1-Methyl-4-pyridone-3-carboxamide,7.778425396864868e-05,7.778425396864868e-05
+Ganoderic acid B,-7.215227515895935e-05,7.215227515895935e-05
+2-Methylglutaric acid,-7.077361977411565e-05,7.077361977411565e-05
+"1,6-Anhydro-.beta.-D-glucose",7.026575681509259e-05,7.026575681509259e-05
+1-[(5-Amino-5-carboxypentyl)amino]-1-deoxyfructose,6.640647993841605e-05,6.640647993841605e-05
+Dodecylbenzenesulfonic acid,5.2743814077370564e-05,5.2743814077370564e-05
+Guvacoline (hydrochloride),4.574771277426747e-05,4.574771277426747e-05
+Bisindolylmaleimide VIII (acetate),-4.161860054706257e-05,4.161860054706257e-05
+"1H-1,2,4-Triazol-3-amine",3.815398507909346e-05,3.815398507909346e-05
+Phe-Thr,-3.737048512924469e-05,3.737048512924469e-05
+Norbuprenorphine glucuronide,-3.4465846308446537e-05,3.4465846308446537e-05
+4-[3-(4-Butoxyphenoxy)propyl]morpholine,-3.126131469172422e-05,3.126131469172422e-05
+Xylitol,-2.784372235646525e-05,2.784372235646525e-05
+"23S,25-dihydroxyvitamin_D3",-2.685298646358142e-05,2.685298646358142e-05
+Nicotinate_D-ribonucleoside,-2.6378231798554205e-05,2.6378231798554205e-05
+"1-(2,5-Dimethylphenoxy)-3-(4-morpholinyl)-2-propanol",-2.5689385549469715e-05,2.5689385549469715e-05
+N-Acetylhistidine,2.540569320009067e-05,2.540569320009067e-05
+Hydroxyisocaproic acid,-2.5042072880203447e-05,2.5042072880203447e-05
+"4-Amino-1-methyl-5H-chromeno[3,4-c]pyridin-5-one",2.4705632764460933e-05,2.4705632764460933e-05
+Oxododecanoylcarnitine,2.2055497703668895e-05,2.2055497703668895e-05
+"N-[2-(5,6-Dimethyl-1H-benzimidazol-2-yl)ethyl]-4-(4H-1,2,4-triazol-4-yl)benzamide",2.1145281275630376e-05,2.1145281275630376e-05
+Glu-Lys,-1.8615145218600485e-05,1.8615145218600485e-05
+Oxohexadecatrienoylcarnitine,-1.5961052152266306e-05,1.5961052152266306e-05
+Isocaproic acid,-1.3876937248180127e-05,1.3876937248180127e-05
+Lys-Val,1.3735293897924646e-05,1.3735293897924646e-05
+trans-Vaccenic acid,1.349854606998578e-05,1.349854606998578e-05
+N-Acetyl-arginine,-1.2212544700085766e-05,1.2212544700085766e-05
+5-Methylisoxazol-3-amine,1.1830320927299896e-05,1.1830320927299896e-05
+M170T187,1.0984590018913032e-05,1.0984590018913032e-05
+Ketoleucine,-1.0941579942938623e-05,1.0941579942938623e-05
+LysoPE(18:1(11Z)/0:0),-9.529597033214475e-06,9.529597033214475e-06
+4-Iodo-1H-imidazole,-8.56294174714779e-06,8.56294174714779e-06
+"5-Bromo-4-(trifluoromethyl)-1,3-thiazol-2-ylamine",7.858377448824593e-06,7.858377448824593e-06
+N-Acetylglutamine,6.936777874010037e-06,6.936777874010037e-06
+3-Methyl-2-oxovaleric acid,-4.039275522977824e-06,4.039275522977824e-06
+2-[(2-Furylmethyl)amino]-2-methyl-1-propanol,3.824838966993488e-06,3.824838966993488e-06
+Ethyl 3-hydroxybenzoate,-2.4010818316104584e-06,2.4010818316104584e-06
+7.alpha.-Hydroxy-4-cholesten-3-one,-2.101852280843782e-06,2.101852280843782e-06
+omega-Muricholic acid,-1.6567535948125244e-06,1.6567535948125244e-06
+Threoninyl-Proline,-8.635049602934714e-07,8.635049602934714e-07
+Promethazine sulfoxide,5.551974553905887e-07,5.551974553905887e-07
+Boviquinone_4,0.0,0.0
+Psoralen,0.0,0.0
+Pentalenolactone O,0.0,0.0
+"4-[4-[[(1R)-1-Phenylethyl]amino]-7H-pyrrolo[2,3-d]pyrimidin-6-yl]phenol",0.0,0.0
+Madurastatin B2,-0.0,0.0
+MLS001076155-01!6ALPHA-METHYL-11BETA-HYDROXYPROGESTERONE,-0.0,0.0
+"3,3',5,5'-Tetraisopropylbiphenyl-4,4'-diol",0.0,0.0
+3-Hydroxy-6-methylheptyl 2-O-.beta.-D-glucopyranosyl-.beta.-D-glucopyranoside,-0.0,0.0
+Secobarbital,0.0,0.0
+Muzanzagenin,-0.0,0.0
+N-Cyclohexyl-N'-[2-(1H-imidazol-4-yl)ethyl]urea,0.0,0.0
+"N-(1-Phenyl-3,6-diazatricyclo[4.3.1.1~3,8~]undec-9-yl)thiourea",-0.0,0.0
+"(7E)-11,12,13-Trihydroxy-4,5,8-trimethyl-3-(2-methylpropyl)-3,3a,4,6a,9,10,11,12,13,14-decahydro-1H-cycloundeca[d]isoindole-1,15(2H)-dione",-0.0,0.0
+L-glycyl-L-hydroxyproline,-0.0,0.0
+"N-(2,5-Dichlorophenyl)-2-hydroxybenzamide",0.0,0.0
+Testosterone decanoate,-0.0,0.0
+2-Docosahexaenoyl-1-stearoyl-sn-glycero-3-phosphoethanolamine,-0.0,0.0
+2-Propyl-4-quinolinecarbohydrazide,0.0,0.0
+Butyl_3-O-caffeoylquinate,-0.0,0.0
+"10-Hydroxy-1-(2-methylpropylidene)-4-propan-2-yl-4H-pyrazino[2,1-b]quinazoline-3,6-dione",0.0,0.0
+8R-HpODE,-0.0,0.0
+Ethyl_7-epi-12-hydroxyjasmonate_glucoside,-0.0,0.0
+Mesaconine,-0.0,0.0
+"(2S,2'S)-Pyrosaccharopine",-0.0,0.0
+"Cholest-4,6-Dien-3-One",-0.0,0.0
+Tacrolimus,-0.0,0.0
+2-Hexyl-3-phenyl-2-propenal,-0.0,0.0
+25-Acetylvulgaroside,-0.0,0.0
+"Methyl 3-(acetyloxy)-16-hydroxy-4,4,8,12,16-pentamethyl-15,17,19-trioxoandrost-11-ene-14-carboxylate",-0.0,0.0
+"(S)-3,5-Dihydroxyphenylglycine",0.0,0.0
+"6-(3,4-Dihydro-2(1H)-isoquinolinyl)-3-methyl[1,2,4]triazolo[3,4-a]phthalazine",0.0,0.0
+Gibberellin A79,0.0,0.0
+"3-Pyridinecarbonitrile, 2-amino-5-butyl-4-(2-furanyl)-6-pentyl-",0.0,0.0
+N-trans-p-Coumaroyltyrosine,0.0,0.0
+2-Hydroxy-N-{2-[(2-hydroxybenzoyl)amino]ethyl}benzamide,0.0,0.0
+Dicyclomine,-0.0,0.0
+"PG(20:4(5Z,8Z,11Z,14Z)/20:4(5Z,8Z,11Z,14Z))",0.0,0.0
+"3-Hydroxy-2',4,4',6'-tetramethoxychalcone",-0.0,0.0
+N-(2-Fluoro-5-methylphenyl)benzamide,0.0,0.0
+1-(4-Chlorophenyl)cyclopentanecarboxylic acid,0.0,0.0
+"1H-Indole-3-carboxylic acid, 1-(cyclohexylmethyl)-",-0.0,0.0
+Thr-Ser-Lys,0.0,0.0
+Egtazic acid,-0.0,0.0
+Sorbitan_laurate,0.0,0.0
+N-cis-Tetradec-9-enoyl-L-homoserine lactone,-0.0,0.0
+Hexamethylene isacetamide,-0.0,0.0
+N-(2-Furylmethyl)-1-phenylethanamine,0.0,0.0
+"Riboflavine_2',3',4',5'-tetrabutanoate",0.0,0.0
+"Benzeneethanamine, 2,5-dimethoxy-N-[(2-methoxyphenyl)methylene]-",-0.0,0.0
+Repaglinide,-0.0,0.0
+Donhexocin,0.0,0.0
+"Cembratetraene-16,2:19,6-diolide",0.0,0.0
+Hexaconazole,-0.0,0.0
+"N-[5-(2,5-Dioxopyrrolidin-1-yl)pentyl]-N-hydroxyacetamide",-0.0,0.0
+N-Succinyl-L-diaminopimelic_acid,-0.0,0.0
+3-(2H-Tetraazol-5-yl)benzoic acid,0.0,0.0
+5-tert-Butyl-2-hydroxybenzophenone,0.0,0.0
+8-Propanoylneosolaniol,0.0,0.0
+"Ethanone, 1-[1-(4-fluorophenyl)-2,5-dimethyl-1H-pyrrol-3-yl]-2-(1-pyrrolidinyl)-",0.0,0.0
+Prostaglandin_D2-1-glyceryl_ester_,0.0,0.0
+Paynantheine,-0.0,0.0
+"3-Allyl-5-phenyl-1,2,4,5-tetrahydro-3-benzazepine-7,8-diol",0.0,0.0
+4-(4-Methylpiperazino)benzoic acid,0.0,0.0
+Balsalazide,0.0,0.0
+Tetrahydro-2H-pyran-4-amine,-0.0,0.0
+"2-(3-Hexyl-4-methyl-2,5-dioxopyrrol-1-yl)-3-methylpentanoic acid",0.0,0.0
+Metolazone,-0.0,0.0
+L-Urobilinogen,0.0,0.0
+"(4aS,8aR,9R,10S,12bR)-10-((S)-Furan-3-yl(hexopyranosyloxy)methyl)-6,6,8a,10-tetramethyl-3,8-dioxodecahydro-3H,6H-spiro[naphtho[1',2':3,4]furo[3,2-c]pyran-9,2'-oxirane]-3'-carboxylic acid",0.0,0.0
+"1H-Indazole-3-carboxamide, 1-(5-fluoropentyl)-N-8-quinolinyl-",-0.0,0.0
+.beta.-Amyrenonol,0.0,0.0
+Biotripyrrin-b,-0.0,0.0
+Heptaminol,-0.0,0.0
+"PC(18:1(9Z)/18:3(9Z,12Z,15Z))",-0.0,0.0
+3-(1-Isobutyl-1H-tetraazol-5-yl)aniline,0.0,0.0
+"PA(20:4(5Z,8Z,11Z,14Z)/22:0)",-0.0,0.0
+"3-cis-Hydroxy-b,e-Caroten-3'-one",-0.0,0.0
+Equisetin,-0.0,0.0
+Platanic acid,0.0,0.0
+Diprotin B,0.0,0.0
+"2,3-dihydroxypropyl palmitate",-0.0,0.0
+17.beta.-Estradiol 3-.beta.-D-glucuronide,-0.0,0.0
+"(1R)-4-(3-Hydroxybutyl)-3,5,5-trimethylcyclohex-3-en-1-yl 6-O-.beta.-D-glucopyranosyl-.beta.-D-glucopyranoside",-0.0,0.0
+Methyl 9H-purine-6-carboxylate,-0.0,0.0
+5-[[5-[2-(3-Aminopropoxy)-6-methoxyphenyl]-1H-pyrazol-3-yl]amino]pyrazinonitrile,0.0,0.0
+"(4R)-4-((1R,3S,5S,7R,9S,10S,13R,14S,17R)-1,3,7-trihydroxy-10,13-dimethylhexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)pentanoic acid",0.0,0.0
+Histidinyl-Tryptophan,0.0,0.0
+"4,8_dimethylnonanoyl_carnitine",0.0,0.0
+Budesonide,0.0,0.0
+Piericidin C1,0.0,0.0
+N-Benzyl-D-phenylalanine methyl ester,-0.0,0.0
+"(3beta,5alpha,6beta,22E,24R)-23-Methylergosta-7,22-diene-3,5,6-triol",-0.0,0.0
+Desmethyleneparoxetine,-0.0,0.0
+"3-Hydroxy-5-methoxy-2,2-dimethyl-7-(2-phenylethyl)-3,4-dihydrochromene-8-carboxylic acid",0.0,0.0
+Euglobal_VII,-0.0,0.0
+"(6beta,22E)-6-Hydroxystigmasta-4,22-dien-3-one",0.0,0.0
+N-(3-Fluoro-4-methylphenyl)-N'-(4-methylphenyl)urea,-0.0,0.0
+"2-Amino-4,5-difluorobenzoic acid",-0.0,0.0
+Lysyl-Glycine,0.0,0.0
+O-t-Butyl-L-threonine methyl ester,-0.0,0.0
+"DG(22:5(7Z,10Z,13Z,16Z,19Z)/16:1(9Z)/0:0)",0.0,0.0
+1-alpha-Acevaltrate,0.0,0.0
+Isoxaben,-0.0,0.0
+Trihexyphenidyl,0.0,0.0
+2-[4-(4-Fluorophenyl)piperazin-1-yl]-6-methylpyrimidin-4(3H)-one,0.0,0.0
+Cerebroside_B,-0.0,0.0
+Leupeptin,0.0,0.0
+Thyrotropin-Releasing Hormone,-0.0,0.0
+"LysoPC(18:3(6Z,9Z,12Z))",-0.0,0.0
+2-Deoxyribose 5-phosphate,0.0,0.0
+"1-(3,4-Dihydroxyphenyl)-6,7-dihydroxy-1,2-dihydronaphthalene-2,3-dicarboxylic acid",0.0,0.0
+N-Methyl-O-methyl-L-tyrosine,0.0,0.0
+Trichostatin A,0.0,0.0
+"Phosphonic acid, P-[[[(1R,2S)-2-aminocyclohexyl]amino]carbonyl]-, rel-",-0.0,0.0
+"L-Leucinamide, N-[(phenylmethoxy)carbonyl]-L-leucyl-N-[(1S)-1-formylbutyl]-",0.0,0.0
+1-[4-Hydroxy-3-(3-methylbut-2-enyl)phenyl]ethanone,-0.0,0.0
+1-(10Z-Heptadecenoyl)-sn-glycero-3-phospho-(1'-rac-glycerol),0.0,0.0
+Lasiodiplodin,0.0,0.0
+5-Bromo-N-phenyl-2-furamide,0.0,0.0
+"(4R)-4-((1R,3S,5S,7R,9S,10S,12S,13R,14S,17R)-1,3,7,12-tetrahydroxy-10,13-dimethylhexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)pentanoic acid",-0.0,0.0
+(2S)-2-[[(1S)-1-Carboxy-3-methylbutyl]carbamoylamino]glutaric acid,-0.0,0.0
+1-(4-Methoxybenzyl)-3-acetoxynorcotinine,0.0,0.0
+"3-Hydroxy-10'-apo-b,y-carotenal",-0.0,0.0
+1-O-b-D-glucopyranosyl sinapate,0.0,0.0
+"4-[(3,4,5-Trimethoxybenzoyl)amino]butanoic acid",-0.0,0.0
+1H-Pyrazole-1-carboximidamide,0.0,0.0
+2-[(9-Benzyl-9H-purin-6-yl)amino]ethanol,-0.0,0.0
+Capsianoside I,0.0,0.0
+6-(Trifluoromethyl)nicotinic acid,0.0,0.0
+3-[(3-Carboxypropanoyl)amino]benzoic acid,0.0,0.0
+gamma-L-Glutamyl-L-pipecolic_acid,0.0,0.0
+"(7R*,8R*)-3-Methoxy-3',4,7,9,9'-pentahydroxy-8,4'-oxyneolignan_4-xyloside",-0.0,0.0
+Estriol-17-glucuronide,-0.0,0.0
+Cyclohexyl(phenyl)[3-(piperidin-1-yl)propyl]silanol,-0.0,0.0
+Cys-Trp,0.0,0.0
+"(4R)-4-((2S,3S,5R,7R,9S,10S,13R,14S,17R)-2,3,7-trihydroxy-10,13-dimethylhexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)pentanoic acid",0.0,0.0
+Candoxatril,-0.0,0.0
+beta-Bixin,0.0,0.0
+PC(15:0/20:1(11Z)),0.0,0.0
+"1H-Indazole-1-pentanoic acid, 3-[[[1-(aminocarbonyl)-2-methylpropyl]amino]carbonyl]-",-0.0,0.0
+Mangiferdesmethylursanone,0.0,0.0
+"(3S,3'R,5R,6R)-7',8'-Didehydro-3,6-epoxy-5,6-dihydro-beta,beta-carotene-3',5-diol",-0.0,0.0
+Hematoporphyrin,0.0,0.0
+Manglupenone,-0.0,0.0
+Propoxur,0.0,0.0
+"3,7,8-Trihydroxy-3-methyl-10-oxo-1,4-dihydropyrano[4,3-b]chromene-9-carboxylic acid",0.0,0.0
+Antibiotic_SB_202742,-0.0,0.0
+"5-(2-Chlorophenyl)-1,3,4-oxadiazole-2(3H)-thione",0.0,0.0
+1-(Methylsulfonyl)-3-piperidinecarbohydrazide,-0.0,0.0
+"2,6-Dihydroxy-1,1,7-trimethyl-2,9,10,10a-tetrahydrophenanthren-3-one",-0.0,0.0
+"2,4-Dimethyloxazole",-0.0,0.0
+Isopentenyl-Adenine,-0.0,0.0
+"5-Heptenoic acid, 7-[(1R,2R,3S,5S)-2-[(1E,3R)-3-(2,3-dihydro-1H-inden-2-yl)-3-hydroxy-1-propen-1-yl]-3-fluoro-5-hydroxycyclopentyl]-, (5Z)-",-0.0,0.0
+2-(4-tert-Butylphenoxy)ethanamine,-0.0,0.0
+Fumigaclavine_A,0.0,0.0
+y-Morphine,-0.0,0.0
+"N1,N3-Bis(4-methylphenyl)malonamide",-0.0,0.0
+Peniprequinolone,0.0,0.0
+Capsianoside_I,0.0,0.0
+5-[1-(Phenylmethyl)-1H-indazol-3-yl]-2-furanmethanol,-0.0,0.0
+Mollicellin I,0.0,0.0
+Ethyl 4-amino-1-piperidinecarboxylate,0.0,0.0
+4-tert-Butyl-N'-[(E)-(2-hydroxynaphthalen-1-yl)methylidene]benzohydrazide,-0.0,0.0
+6.alpha./.beta.-Hydroxyoxymorphone,-0.0,0.0
+"1H-Pyrrole-3-propanoic acid, 5-[(1,2-dihydro-2-oxo-3H-indol-3-ylidene)methyl]-2,4-dimethyl-",-0.0,0.0
+Rhubafuran,0.0,0.0
+Obatoclax,0.0,0.0
+"1,3-Benzenediol, 5-methyl-2-[(1R,6R)-3-methyl-6-(1-methylethenyl)-2-cyclohexen-1-yl]-",0.0,0.0
+Derenofylline,0.0,0.0
+"9H-Purine-2,6-diamine, N6-(1R,2S,4S)-bicyclo[2.2.1]hept-2-yl-N2-phenyl-, rel-",0.0,0.0
+Plinabulin,0.0,0.0
+"N-(4-Pyridinylmethyl)[1,1'-biphenyl]-4-carboxamide",-0.0,0.0
+Serpentine cation,-0.0,0.0
+"5-(2-Furyl)-4H-1,2,4-triazole-3-thiol",0.0,0.0
+4-Hydroxy-2-(trifluoromethyl)thiophene,0.0,0.0
+"cis,cis-Muconic_acid",0.0,0.0
+"[(3R,4S,8S,8aS)-3-Hydroxy-6,8a-dimethyl-8-[(Z)-2-methylbut-2-enoyl]oxy-3-propan-2-yl-1,2,3a,4,5,8-hexahydroazulen-4-yl] 4-hydroxybenzoate",-0.0,0.0
+5-Fluoropentyl-3-pyridinoylindole,-0.0,0.0
+"1H-Indole-1-pentanoic acid, 3-[2-(2-methoxyphenyl)acetyl]-",-0.0,0.0
+(2S)-((6-O-Pentopyranosylhexopyranosyl)oxy)(phenyl)acetonitrile,0.0,0.0
+Erythraddison II,-0.0,0.0
+Antibiotic F 1839A,-0.0,0.0
+Norethindrone,0.0,0.0
+4-Hydroxycyclofenil,-0.0,0.0
+Octyl gallate,-0.0,0.0
+"3-(3,4-Dimethoxyphenyl)-7-methoxy-4-methylcoumarin",-0.0,0.0
+(3R)-3-[Di(cyclobutyl)amino]-8-fluorochroman-5-carboxamide,0.0,0.0
+"6,4'-Dihydroxyflavone",0.0,0.0
+Oxymorphone,0.0,0.0
+4-Chloro-5-methyl-1H-pyrazole-3-carboxylic acid,0.0,0.0
+"6-tert-Butyl-2,3,4,9-tetrahydro-1H-carbazol-1-one",-0.0,0.0
+Fenarimol,-0.0,0.0
+N-Mesitylbicyclo[2.2.1]heptane-2-carboxamide,0.0,0.0
+4-Fluoro-3-methyl-1-benzothiophene-2-carboxylic acid,-0.0,0.0
+4-Fluoro-.alpha.-pyrrolidinobutiophenone,0.0,0.0
+Codeine,-0.0,0.0
+4-Hydroxy-4'-methyldiphenylamine,-0.0,0.0
+"2,4-Quinazolinediamine, N2,N4-bis(phenylmethyl)-",0.0,0.0
+Propyphenazone,-0.0,0.0
+"3-(5,5-Dimethyl-5,6-dihydro[1,2,4]triazolo[3,4-a]isoquinolin-3-yl)phenol",0.0,0.0
+"4-Amino-2,6-diphenyl-5-pyrimidinecarbonitrile",-0.0,0.0
+"(1Z)-1-(3-Ethyl-5-hydroxy-1,3-benzothiazol-2-ylidene)acetone",0.0,0.0
+Tacrine,-0.0,0.0
+"1H-Indole-3-carboxamide, N-1-naphthalenyl-1-pentyl-",-0.0,0.0
+2-Amino-4-(4-methylphenyl)-6-phenylnicotinonitrile,0.0,0.0
+Atipamezole,-0.0,0.0
+"N-(2-Ethylphenyl)-2,3-dihydro-1H-cyclopenta[b]quinolin-9-amine",0.0,0.0
+"3,4-Dihydrocoumarin",-0.0,0.0
+"3-Amino-1,1,1-trifluoro-2-propanol",0.0,0.0
+N-Desmethylmirtazapine,0.0,0.0
+N-(4-Anilinophenyl)isonicotinamide,-0.0,0.0
+3-Methyl-1-(4-nitrophenyl)-1H-pyrazol-5-ol,0.0,0.0
+7-Methylnaphthalen-2-ol,0.0,0.0
+"2-Chloro-N,N-dimethylpropan-1-amine",-0.0,0.0
+2-Amino-1-(4-methylphenyl)-4-phenyl-1H-pyrrole-3-carbonitrile,0.0,0.0
+Danofloxacin,0.0,0.0
+Pro-Leu,-0.0,0.0
+"4-[2-(2,6-dimethoxy-4-prop-2-enylphenoxy)-1-hydroxypropyl]-2-methoxyphenol",0.0,0.0
+Promazine,0.0,0.0
+1-Deoxy-D-glucitol,-0.0,0.0
+"7H-Pyrrolo[2,3-d]pyrimidin-4-amine, 7-cyclopentyl-5-(4-phenoxyphenyl)-",0.0,0.0
+3-[(3-Butyl-6-methoxy-2-methyl-4-quinolinyl)sulfanyl]propanenitrile,-0.0,0.0
+Pipenzolate cation,0.0,0.0
+"4-[(2,2-Diphenylacetyl)oxy]-1,1-dimethylpiperidinium cation",0.0,0.0
+"(6R,12aS,12bS,13R)-8,9-Dimethoxy-5,6-dihydro-3H,4H-6,12b,12a-(propane[1,1,3]triyl)-3a,10b-diazabenzo[7,8]cycloocta[1,2,3-cd]inden-11(12H)-one",0.0,0.0
+6.beta.-Naltrexol,0.0,0.0
+Anabsinthin,0.0,0.0
+"5-Amino-2-(5-amino-1,3-benzoxazol-2-yl)phenol",-0.0,0.0
+Halofenozide,0.0,0.0
+5-Chloro-2-(4-propionyl-1-piperazinyl)aniline,-0.0,0.0
+"(17alpha,23S)-17,23-Epoxy-29-hydroxy-27-norlanosta-1,8-diene-3,15,24-trione",-0.0,0.0
+Levallorphan,0.0,0.0
+"15-Hydroxy-7-oxoabieta-8,11,13-trien-18-oic acid",-0.0,0.0
+N-(4-Chlorophenyl)-2-hydroxy-9H-carbazole-3-carboxamide,0.0,0.0
+Allixin,-0.0,0.0
+"(22E)-(24S)-1alpha,24-dihydroxy-26,27-cyclo-22,23-didehydrovitamin_D3_/_(22E)-(24S)-1alpha,24-dihydroxy-26,27-cyclo-22,23-didehydrocholecalciferol_/_Calcipotriol",-0.0,0.0
+Praeroside III,0.0,0.0
+"Ethanone, 2-(4-methoxyphenyl)-1-(1-pentyl-1H-indol-3-yl)-",-0.0,0.0
+Tranilast,0.0,0.0
+"8-Hydroxy-3-(7-hydroxyheptyl)-6-oxo-3,4-dihydroisochromene-7-carboxylic acid",-0.0,0.0
+"3,4,5-Trimethoxy-N-3-piperidinylbenzamide",-0.0,0.0
+"7-Diethylamino-3-(3,4-dimethoxyphenyl)coumarin",0.0,0.0
+Abacavir,0.0,0.0
+5'-O-Acetyl-(R)-lisofylline,0.0,0.0
+Pirimicarb,-0.0,0.0
+vesnarinone,0.0,0.0
+Galdosol,0.0,0.0
+"5-tert-Butyl-2,4-dihydroxybenzophenone",-0.0,0.0
+8-Hydroxycarvedilol,0.0,0.0
+8-Geranyl-7-hydroxycoumarin,-0.0,0.0
+Incensole acetate,0.0,0.0
+Northiaden,0.0,0.0
+Endothal,0.0,0.0
+2-Amino-4-(3-hydroxyphenyl)-7-nitro-4H-chromene-3-carbonitrile,0.0,0.0
+Hydromorphone,-0.0,0.0
+"1,6-Dimethoxypyrene",-0.0,0.0
+"6,7,8,9,14,15-Hexahydro-7-methyl-5H-indolo[3,2-f][3]benzazecine",0.0,0.0
+Nateglinide,-0.0,0.0
+D-Urobilin,-0.0,0.0
+Bisphenol A diglycidyl ether,0.0,0.0
+Tanshinone I,0.0,0.0
+Nordentatin,-0.0,0.0
+"2,4-Dimethoxy-2'-hydroxy-5'-methylchalcone",0.0,0.0
+atrazine ,0.0,0.0
+Propafenone,-0.0,0.0
+"1-(2,4-Dihydroxyphenyl)-2-(3,5-dimethoxyphenyl)propan-1-one",-0.0,0.0
+Butyl_(S)-3-hydroxybutyrate_[arabinosyl-(1->6)-glucoside],0.0,0.0
+"5,7,4'-TRIMETHOXYFLAVONE",0.0,0.0
+Arg-Gly-Asp,-0.0,0.0
+Trenbolone,-0.0,0.0
+Atovaquone,0.0,0.0
+4-(3-Fluorophenyl)benzonitrile,0.0,0.0
+Rasagiline,-0.0,0.0
+4-Methoxy-2-methyldiphenylamine,-0.0,0.0
+Asperagenin,0.0,0.0
+"2-[(4S,5S,5aS,9aS)-4-Methoxy-6,6,9a-trimethyl-5-[(2E,4E,6E)-octa-2,4,6-trienoyl]oxy-1-oxo-4,5,5a,7,8,9-hexahydro-3H-benzo[e]isoindol-2-yl]pentanedioic acid",0.0,0.0
+"Heptanedioic acid, 1-(2-cyclopentylidenehydrazide)",-0.0,0.0
+7-Hydroxy-4-methylchromen-2-one,0.0,0.0
+Myristicanol_A,-0.0,0.0
+N-[2-(4-Prenyloxyphenyl)ethyl]tiglamide,0.0,0.0
+Asacoumarin_A,0.0,0.0
+m-Hydroxycocaine,0.0,0.0
+"(3aS,5S,11bR,E)-12-Ethylidene-1,2,3a,4,5,7-hexahydro-3,5-ethanopyrrolo[2,3-d]carbazole-6-carbaldehyde",0.0,0.0
+Xanthophyll,-0.0,0.0
+Araliacerebroside,-0.0,0.0
+Heptadecasphing-4-enine,0.0,0.0
+Cunaniol,-0.0,0.0
+2-Chloro-5-(1-pyrrolidinyl)benzoic acid,-0.0,0.0
+(.+/-.)-4-Fluoroephedrine,0.0,0.0
+Phloroglucinolcarboxylic acid,-0.0,0.0
+Phenyl-p-tolylamine,0.0,0.0
+"3,3'-Dimethyl-4,4'-diaminodiphenylmethane",0.0,0.0
+M369T98,-0.0,0.0
+Tetrahydro-2H-thiopyran-4-ylamine,-0.0,0.0
+Bathophenanthroline,0.0,0.0
+"2-Amino-5,5,5-trifluoropentanoic acid",0.0,0.0
+"(2R,2'S)-Isobuteine",0.0,0.0
+"6-(2-Carboxyethyl)-7-hydroxy-2,2-dimethyl-4-chromanone_glucoside",-0.0,0.0
+"7-Hydroxy-4-((3Z)-5-hydroxy-3-methylpent-3-en-1-yl)-4a,8,8-trimethyl-3-methylidenedecahydronaphthalen-2-yl .beta.-D-mannopyranoside",-0.0,0.0
+"1H-Indole-3-carboxamide, 1-pentyl-N-phenyl-",-0.0,0.0
+"2(1H)-Pyrimidinone, 5-[3-[(1S,2S,4R)-bicyclo[2.2.1]hept-2-yloxy]-4-methoxyphenyl]tetrahydro-",-0.0,0.0
+2-(4-Methylphenyl)-1H-benzimidazole,-0.0,0.0
+"9.alpha.-Fluoro-17,17-dimethyl-18-norandrostane-4,13-dien-11.beta.-ol-3-one",0.0,0.0
+Antibiotic TAN 1446A,0.0,0.0
+Pro-Trp,-0.0,0.0
+1-(3-Chlorophenyl)-3-(4-sulfamoylphenyl)urea,0.0,0.0
+(.+/-.)-Talinolol,-0.0,0.0
+5-(2-Chloroethyl)-5H-tetraazole,0.0,0.0
+"Benzamide, 3-[[(2E)-3-(1H-indol-3-yl)-1-oxo-2-propen-1-yl]amino]-",0.0,0.0
+"4-Phenyl-1H-benzo[f]isoindole-1,3(2H)-dione",-0.0,0.0
+Gly-His-Lys,-0.0,0.0
+1-(6-Chloropyridin-2-yl)piperazine,0.0,0.0
+Mantabegron,0.0,0.0
+N.alpha.-Benzoyl-DL-arginine-4-nitroanilide,-0.0,0.0
+Methyl 1-hydroxy-2-naphthoate,0.0,0.0
+"2,3,16,20,25-Pentahydroxycucurbita-5-ene-11,22-dione-3-O-glucoside",0.0,0.0
+Moupinamide,-0.0,0.0
+(2E)-N-(4-Methylphenyl)-3-phenyl-2-propenamide,0.0,0.0
+"5-(Benzylamino)-2-phenyl-1,3-oxazole-4-carbonitrile",0.0,0.0
+"(3b,4b,11b,14b)-11-Ethoxy-3,4-epoxy-14-hydroxy-12-cyathen-15-al_14-xyloside",-0.0,0.0
+"3-[4-(4-Hydroxy-2-quinazolinyl)phenyl]-1,3-oxazolidin-2-one",-0.0,0.0
+"4-(1H-Benzimidazol-2-yl)-1,2,5-oxadiazol-3-ylamine",0.0,0.0
+"2-(4-Piperidin-4-ylcarbonyl)-1,2,3,4-tetrahydroisoquinoline",-0.0,0.0
+"Naphtho[2,3-b]furan-2(4H)-one, 4a,5,6,7,8,8a,9,9a-octahydro-3,8a-dimethyl-5-methylene-",-0.0,0.0
+"Pyrrolidine, 2-(diphenylmethyl)-, (2S)-",0.0,0.0
+Nonatrienedioylcarnitine,-0.0,0.0
+Naloxone N-oxide,0.0,0.0
+"Butanediamide, N4-hydroxy-N1-[(1S)-1-(1H-indol-3-ylmethyl)-2-(methylamino)-2-oxoethyl]-2-(2-methylpropyl)-, (2R)-",-0.0,0.0
+7-Diethylamino-3-phenylcoumarin,0.0,0.0
+"3-Methyl-2-thioxo-2,3-dihydro-1H-imidazole-4-carboxylic acid",0.0,0.0
+"Benzamide, N-1H-indol-5-yl-",-0.0,0.0
+Methyl thiosalicylate,0.0,0.0
+N-(Prop-2-en-1-yl)benzenesulfonamide,0.0,0.0
+[3-(4-Fluorophenyl)-5-isoxazolyl]methanol,-0.0,0.0
+2-(4-Methoxyphenyl)quinazolin-4-ol,-0.0,0.0
+"6-Phenylthieno[3,2-d]pyrimidin-4-ol",0.0,0.0
+Methaqualone,-0.0,0.0
+2-[4-(Acetylamino)phenyl]-4-quinolinecarboxylic acid,0.0,0.0
+"2-Hydroxy-2',3'-dichlorobiphenyl",0.0,0.0
+7-Hydroxy-5-methylflavone,-0.0,0.0
+2-Naphthalenethiol,0.0,0.0
+2-Ethoxynaphthalene,-0.0,0.0
+(2E)-3-Phenyl-1-(piperidin-1-yl)prop-2-en-1-one,0.0,0.0
+"1,2,3,4-Tetrahydroisoquinoline-6-carboxylic acid",-0.0,0.0
+(E)-2-Phenylethenesulfonic acid,-0.0,0.0
+4'-Chloro-2-hydroxy-4-methoxybenzophenone,0.0,0.0
+"2-(4-Morpholinyl)-4H-pyrimido[2,1-a]isoquinolin-4-one",0.0,0.0
+5-Methoxy-.alpha.-methyltryptamine,0.0,0.0
+"5-Methoxy-8,8-dimethyl-2-phenyl-2,3,8,8a-tetrahydro-4H,7aH-cyclopropa[4,5]furo[2,3-h]chromen-4-one",-0.0,0.0
+"cis-_and_trans-2-Isopropyl-4-methyl-1,3-dioxolane",0.0,0.0
+Propachlor ESA,-0.0,0.0
+2-Mercaptomethylbenzimidazole,0.0,0.0
+2-Methoxy-3-methyl-9H-carbazole,-0.0,0.0
+2-Butylquinoline,-0.0,0.0
+4-(4-Fluorophenyl)-1H-pyrazol-3-amine,0.0,0.0
+"4,4-Difluoropiperidine",0.0,0.0
+"5-(4-Fluorophenyl)-1,3-oxazole-2(3H)-thione",0.0,0.0
+16-Oxokahweol,-0.0,0.0
+"Methanone, 1-naphthalenyl(1-pentyl-1H-benzimidazol-2-yl)-",0.0,0.0
+"N,N'-Diphenyl-p-phenylenediamine",-0.0,0.0
+Phthalazinone pyrazole,-0.0,0.0
+4-(1-Phenylcyclohexyl)phenol,-0.0,0.0
+"Phenol, 3-[[6-(3-aminophenyl)-7H-pyrrolo[2,3-d]pyrimidin-4-yl]oxy]-",0.0,0.0
+3'-Fluoro-.alpha.-pyrrolidinopropiophenone,0.0,0.0
+Medicanine,0.0,0.0
+Butalbital,0.0,0.0
+Sempervirine cation,-0.0,0.0
+Desisopropyldisopyramide,0.0,0.0
+"2-(4-Chlorophenyl)-3H-imidazo[4,5-c]pyridine",-0.0,0.0
+"3-Nitro-6-(trifluoromethyl)pyridine-2,4-diol",0.0,0.0
+N-nornuciferine,0.0,0.0
+4-Fluoro-1-benzothiophene-2-carboxylic acid,-0.0,0.0
+4-(Trifluoromethyl)pyrimidin-2-ol,0.0,0.0
+"5-(2,6-Difluorophenyl)-1H-pyrazol-3-amine",0.0,0.0
+Desaminosulfamethazine,-0.0,0.0
+"4,4'-Thiodiphenol",-0.0,0.0
+3-(4-Methylphenyl)-1H-pyrazole-4-carbaldehyde,0.0,0.0
+".beta.-Alanine, N-[2-[(3-hexylphenyl)amino]-2-oxoethyl]-",0.0,0.0
+"6,7,8,9-Tetrahydrodibenzo[b,d]furan-2-ol",-0.0,0.0
+"[2-[2-(3-Fluorophenyl)ethynyl]-4,6-dimethyl-3-pyridyl]amine",0.0,0.0
+Sakacin_A,0.0,0.0
+"1H-Indole-5-sulfonamide, N-(3-chlorophenyl)-3-[[3,5-dimethyl-4-[(4-methyl-1-piperazinyl)carbonyl]-1H-pyrrol-2-yl]methylene]-2,3-dihydro-N-methyl-2-oxo-, (3Z)-",0.0,0.0
+TRICARBALLYLIC ACID,0.0,0.0
+Reserpine,-0.0,0.0
+N-(2-Iodophenyl)methanesulfonamide,-0.0,0.0
+"17-Phenyltrinor-13,14-dihydroprostaglandin A2",0.0,0.0
+"10-Hydroxy-7,9-dimethyl-1,3,4,4a,7,7a-hexahydrobenzo[e]naphthalene-2,8,11-trione",0.0,0.0
+Chlordiazepoxide,0.0,0.0
+Resmethrin,0.0,0.0
+(Desmethyl)hydroxycerivastatin,0.0,0.0
+N-(5-Chloropyridin-2-yl)-5-propylthiophene-3-carboxamide,-0.0,0.0
+Tribenzylamine N-oxide,0.0,0.0
+"3-Isoxazolecarboxamide, N,N-dicyclohexyl-5-cyclopropyl-",-0.0,0.0
+"L-Valine, N-[(1-pentyl-1H-indazol-3-yl)carbonyl]-, methyl ester",0.0,0.0
+"(1S,2R,4S)-(-)-Bornyl_acetate",0.0,0.0
+Diflubenzuron,-0.0,0.0
+Methylglyoxal,0.0,0.0
+"Acetamide, N-[2-[5-(acetyloxy)-3,6-dimethoxy-1-phenanthrenyl]ethyl]-N-methyl-",0.0,0.0
+"2,3,5-Trimethyl-6-(3-oxo-3-piperidin-1-ylpropyl)-7H-furo[3,2-g]chromen-7-one",-0.0,0.0
+"1H-Indazole-3-carboxamide, N-[1-(aminocarbonyl)-2-methylpropyl]-1-(4-hydroxypentyl)-",-0.0,0.0
+Carbobenzyloxyglycylglycyl-L-proline benzyl ester,-0.0,0.0
+Diallyl Trisulfide,0.0,0.0
+"4-(3,3-Difluoroazetidin-1-yl)piperidine",-0.0,0.0
+N-(4-Nitrophenyl)-2-phenoxyacetamide,-0.0,0.0
+Arachidonoyl-1-thioglycerol,0.0,0.0
+Nummularine_B,0.0,0.0
+N-(1-Allylcyclohexyl)-2-ethyl-6-methylaniline,-0.0,0.0
+4-Oxo-4-{[(4-phenyltetrahydro-2H-pyran-4-yl)methyl]amino}butanoic acid,0.0,0.0
+Falcarindione,-0.0,0.0
+Migrastatin,-0.0,0.0
+Glyceraldehyde,-0.0,0.0
+2-(5-Amino-1H-tetrazol-1-yl)acetohydrazide,0.0,0.0
+"1-Piperazinecarboxamide, N-phenyl-4-(2-quinolinylmethyl)-",0.0,0.0
+TIAPRIDE,-0.0,0.0
+Piperidolate,-0.0,0.0
+Tetrafluorosuccinic acid,0.0,0.0
+"N,N'-Dicarbobenzyloxy-L-ornithine",0.0,0.0
+"[(6R,7R)-7-Hydroxy-7-methyl-8-oxo-3-[(E)-prop-1-enyl]-5,6-dihydro-1H-isochromen-6-yl] 3,6-dihydroxy-4-methoxy-2-methylbenzoate",0.0,0.0
+"5,5'-Methylenebis(2-hydroxy-3-methylbenzoic acid)",0.0,0.0
+N-Desmethylaminopyrine,0.0,0.0
+"Benzeneethanamine, 2,5-dimethoxy-N-[(2-methoxyphenyl)methyl]-",0.0,0.0
+Corynanthin,-0.0,0.0
+"N-(2,5-Difluorobenzyl)-1-methoxy-2-propanamine",0.0,0.0
+5-[(Benzylsulfanyl)methyl]-2-furoic acid,-0.0,0.0
+"N-[2,4-Bis(3-methylbut-2-enyl)-6-[2-(5-methyl-3,6-dioxopiperazin-2-yl)acetyl]phenyl]-2,2-dimethylbut-3-enamide",-0.0,0.0
+Resiniferatoxin,0.0,0.0
+"1,3,4-Trihydroxy-5-[(E)-3-[2-(4-hydroxy-3-methoxyphenyl)-3-(hydroxymethyl)-7-methoxy-2,3-dihydro-1-benzofuran-5-yl]prop-2-enoyl]oxycyclohexane-1-carboxylic acid",-0.0,0.0
+"1,3,4-Oxadiazol-2(3H)-one, 3-[1-[[1-(4-methylphenyl)cyclopropyl]carbonyl]-4-piperidinyl]-5-phenyl-",0.0,0.0
+5-Chloro-2-methylbenzothiazole,0.0,0.0
+"(2S)-2-Amino-3-(2,4-diketo-6,7-dihydro-5H-cyclopenta[d]pyrimidin-1-yl)propionic acid",0.0,0.0
+alpha-Zearalanol,0.0,0.0
+"5,6-Difluoro-1H-indazole-3-carboxylic acid",-0.0,0.0
+3-[(Methylsulfonyl)amino]-2-thiophenecarboxylic acid,0.0,0.0
+"2-Propenoic acid, 3-[2-(.beta.-D-glucopyranosyloxy)-4-methoxyphenyl]-, (2Z)-",0.0,0.0
+Betamethasone-17-valerate,-0.0,0.0
+2'-Hydroxy-3-methoxychalcone,0.0,0.0
+"4-(3-Fluorophenyl)-4,5,6,7-tetrahydro-3H-imidazo[4,5-c]pyridine",0.0,0.0
+epiyangambin,0.0,0.0
+5-[(2R)-2-{[2-(2-Ethoxyphenoxy)ethyl]amino}propyl]-2-methoxybenzenesulfonamide,-0.0,0.0
+Dimethylenastron,0.0,0.0
+Prednisolone_tebutate,-0.0,0.0
+"(4-(.beta.-D-Glucopyranosyloxy)-2,6-bis(3-methylbut-2-en-1-yl)phenyl)(hydroxy)acetic acid",0.0,0.0
+Dipiperamide_C,0.0,0.0
+Pichromene,0.0,0.0
+N-Butylscopolaminium cation,0.0,0.0
+Bacampicillin,0.0,0.0
+"3-(1-(Cyclohexylmethyl)-1H-indazole-3-carboxamido)-2,2-dimethylsuccinic acid",0.0,0.0
+N-(3-Hydroxyphenyl)-2-(4-isobutylphenyl)propanamide,0.0,0.0
+"2-(2,3-Dimethylphenyl)-7-methyl-1,2,4-triazaspiro[4.5]decane-3-thione",0.0,0.0
+"Benzoic acid, 2-hydroxy-4-methoxy-6-methyl-, 5,6,7,8-tetrahydro-7-hydroxy-7-methyl-8-oxo-3-(1-propen-1-yl)-1H-2-benzopyran-6-yl ester",-0.0,0.0
+Quinine di-N-oxide,0.0,0.0
+N-Acetyl-S-geranylgeranyl-L-cysteine,0.0,0.0
+Methiocholic acid putative,-0.0,0.0
+"2-(2-Hydroxypropan-2-yl)-9-(3-methylbut-2-enyl)-2,3-dihydrofuro[3,2-g]chromen-7-one",-0.0,0.0
+3-(Carboxymethyl)-1-.beta.-D-glucopyranosyl-1H-indole,-0.0,0.0
+Rutacridone,0.0,0.0
+"4-Amino-2-(1,3-benzoxazol-2-yl)phenol",0.0,0.0
+Methylergonovine,-0.0,0.0
+Scrophularoside A8,0.0,0.0
+"1H-Indazole-3-carboxamide, 1-pentyl-N-8-quinolinyl-",-0.0,0.0
+"Benzoic acid, 4-[[(3-amino-2-naphthalenyl)amino]methyl]-, ethyl ester",-0.0,0.0
+Hexythiazox,0.0,0.0
+amcinonide,0.0,0.0
+Averantin 1''-methyl ether,0.0,0.0
+Labetalol,0.0,0.0
+"Catechin_7,4'-dimethyl_ether",0.0,0.0
+(S)-Edulinine,0.0,0.0
+2-Hydroxy-4-(trifluoromethyl)pyrimidine-5-carboxylic acid,0.0,0.0
+"4-(3-Hydroxy-7-phenyl-6-heptenyl)-1,2-benzenediol",-0.0,0.0
+Thiomiltefosine,-0.0,0.0
+Ouabagenin,0.0,0.0
+DAUNORUBICIN,0.0,0.0
+Methotrexate,-0.0,0.0
+1-[3-Carboxy-3-[[(E)-3-(4-hydroxyphenyl)prop-2-enoyl]amino]propyl]pyridin-1-ium-3-carboxylate,0.0,0.0
+"2-Methyl-1,3-cyclohexanedione",0.0,0.0
+Ikarugamycin,0.0,0.0
+"N-(1-Amino-3,3-dimethyl-1-oxobutan-2-yl)-1-pentyl-1H-indole-3-carboxamide",0.0,0.0
+"1,2-Dehydro-alpha-cyperone",-0.0,0.0
+1-Methyl-5-phenyl-1H-pyrazole-3-carbaldehyde,0.0,0.0
+6.beta.-Testosterone enanthate,0.0,0.0
+N-(4-Methoxyphenyl)ethanethioamide,0.0,0.0
+"(4S,5Z,6S)-4-(2-methoxy-2-oxoethyl)-5-[2-[(E)-3-phenylprop-2-enoyl]oxyethylidene]-6-[(2S,3R,4S,5S,6R)-3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]oxy-4H-pyran-3-carboxylic acid",0.0,0.0
+Trimebutine,-0.0,0.0
+"13-Hydroxy-6-(1-hydroxyethyl)-12,14-dimethyl-3-methylidene-15-nonyl-9-(propan-2-yl)-1-oxa-4,7,10-triazacyclopentadecane-2,5,8,11-tetrone",-0.0,0.0
+Dimoxystrobin,0.0,0.0
+M317T186,-0.0,0.0
+2-(3-Nitrophenyl)-4-quinolinecarboxylic acid,0.0,0.0
+"1H-Indazole-3-carboxylic acid, 1-pentyl-, 8-quinolinyl ester",0.0,0.0
+"1-(3,4,5-Trimethoxyphenyl)-1,2,3,4-tetrahydro-6,7-isoquinolinediol",0.0,0.0
+6-Tuliposide A,0.0,0.0
+M359T107,0.0,0.0
+M225T208,-0.0,0.0
+6'-Dehydro-6'-oxoparomamine,-0.0,0.0
+M387T144,0.0,0.0
+M338T272,-0.0,0.0
+N-Acetylanthranilate,0.0,0.0
+2'-N-Acetylparomamine,0.0,0.0
+M281T163,-0.0,0.0
+M315T199,-0.0,0.0
+4-Coumarate,0.0,0.0
+M434T127,0.0,0.0
+M642T185,0.0,0.0
+M598T125,0.0,0.0
+M399T196,-0.0,0.0
+M337T223,-0.0,0.0
+M593T158,0.0,0.0
+M301T102,0.0,0.0
+M402T176,0.0,0.0
+D-Octopine,-0.0,0.0
+delta-(L-2-Aminoadipyl)-L-cysteinyl-D-valine,0.0,0.0
+L-Carnitinamide,0.0,0.0
+M366T181,0.0,0.0
+M305T207,0.0,0.0
+2-Amino-2-deoxy-D-gluconate,-0.0,0.0
+Hexadecanal,0.0,0.0
+M481T38,0.0,0.0
+M640T182,0.0,0.0
+N-Acetyldemethylphosphinothricin tripeptide,0.0,0.0
+M653T157,0.0,0.0
+M130T222,0.0,0.0
+M476T132,-0.0,0.0
+M293T126,-0.0,0.0
+2-Hydroxy-3-phenylpropenoate,-0.0,0.0
+M450T124,-0.0,0.0
+M478T131,-0.0,0.0
+M303T252,0.0,0.0
+Diacetyl,0.0,0.0
+S-Succinylglutathione,0.0,0.0
+M327T163,0.0,0.0
+"2-Hydroxy-6-oxonona-2,4-diene-1,9-dioate",0.0,0.0
+M484T117,0.0,0.0
+M393T153,0.0,0.0
+"3alpha,7alpha,12alpha-Trihydroxy-5beta-cholestanoate",0.0,0.0
+M227T62,-0.0,0.0
+"(2R,3R)-3-Methylornithinyl-N6-lysine",-0.0,0.0
+Sphinganine 1-phosphate,0.0,0.0
+"1,3,7-Trimethyl-5-hydroxyisourate",-0.0,0.0
+S-Adenosyl-L-homocysteine,-0.0,0.0
+M424T103,-0.0,0.0
+M462T206,0.0,0.0
+Acetyl-maltose,0.0,0.0
+(E)-N-[2-(3-Indolyl)ethyl]-3-(4-hydroxy-3-methoxyphenyl)acrylamide,0.0,0.0
+M194T105,-0.0,0.0
+M587T154,0.0,0.0
+3-beta-D-Galactosyl-sn-glycerol,0.0,0.0
+N-Acetyl-D-glucosaminate,0.0,0.0
+(2R)-2-Hydroxy-2-methylbutanenitrile,0.0,0.0
+M651T158,0.0,0.0
+M299T233,0.0,0.0
+Linatine,0.0,0.0
+M590T153,0.0,0.0
+M321T166,0.0,0.0
+M210T90,-0.0,0.0
+M134T238,-0.0,0.0
+M487T93,0.0,0.0
+M454T80,0.0,0.0
+M471T94,-0.0,0.0
+Murideoxycholic acid,0.0,0.0
+Choline phosphate,0.0,0.0
+M549T85,0.0,0.0
+M370T206,0.0,0.0
+5-Fluoro-2-pyrimidinecarbonitrile,0.0,0.0
+"2-{[((2Z)-4-Phenyl-1,3-thiazol-2(3H)-ylidene)amino]carbonyl}benzoic acid",0.0,0.0
+2-Chloro-5-fluorobenzoic acid,0.0,0.0
+"4-{[4-(4-Chlorophenyl)-1,3-thiazol-2-yl]amino}-4-oxobutanoic acid",0.0,0.0
+N-Benzyl(1-naphthyl)methanamine,-0.0,0.0
+D-allo-Isoleucine,0.0,0.0
+"9,10,18-Trihydroxystearate",0.0,0.0
+4-Hydroxyphenylacetylglutamic acid,0.0,0.0
+5-Methoxyindoleacetate,0.0,0.0
+Nopaline,0.0,0.0
+M223T233,0.0,0.0
+Pantothenol,0.0,0.0
+Anhalamine,0.0,0.0
+M476T79,0.0,0.0
+M410T65,0.0,0.0
+Fructoselysine 6-phosphate,-0.0,0.0
+N(alpha)-gamma-L-Glutamylhistamine,-0.0,0.0
+Calystegin A3,0.0,0.0
+M416T228,0.0,0.0
+M176T225,-0.0,0.0
+M518T193,-0.0,0.0
+L-Cysteate,-0.0,0.0
+M554T130,-0.0,0.0
+3-Dehydroshikimate,0.0,0.0
+M210T77,-0.0,0.0
+M299T176,0.0,0.0
+2-Aminobut-2-enoate,0.0,0.0
+M370T145,0.0,0.0
+M649T164,0.0,0.0
+M591T172,0.0,0.0
+N-Acetylbialaphos,0.0,0.0
+Leptomycin B,0.0,0.0
+"3,4-DIHYDROXYPHENYL GLYCOL",0.0,0.0
+"4-((3R,4S)-4-Hydroxy-4-(4-hydroxy-3-methoxybenzyl)-3-(hydroxymethyl)tetrahydrofuran-2-yl)-2-methoxyphenyl .beta.-D-glucopyranoside",-0.0,0.0
+"Lutein 5,6-epoxide",-0.0,0.0
+Methanesulfonic acid,0.0,0.0
+"N-[(3s,5s,7s)-Adamantan-1-yl]-1-(4-fluorobenzyl)-1H-indazole-3-carboxamide",0.0,0.0
+Dianix Yellow 6G SL-FS,0.0,0.0
+"PC(22:4(7Z,10Z,13Z,16Z)/15:0)",-0.0,0.0
+AS_1-5,0.0,0.0
+"1,2-Dipalmitoyl-sn-glycero-3-phosphoethanolamine-N-methyl",-0.0,0.0
+2'-Deoxyinosine-5'-triphosphate trisodium salt,-0.0,0.0
+Itopride,0.0,0.0
+1-Stearoyl-2-docosahexaenoyl-sn-glycero-3-phospho-(1'-sn-glycerol),0.0,0.0
+.beta.-Hydroxyphenylalanine,-0.0,0.0
+2-Dec-9-enyl-3-hydroxypentanedioic acid,0.0,0.0
+"Cyclohexanecarboxylic acid, 1-phenyl-, 2-(4-morpholinyl)ethyl ester",-0.0,0.0
+"2-(Hexopyranosyloxy)-3-hydroxypropyl (7Z,10Z,13Z)-hexadeca-7,10,13-trienoate",0.0,0.0
+Kendomycin,0.0,0.0
+"Benzeneethanamine, 2,5-dimethoxy-N-[(2-methoxyphenyl)methyl]-4-nitro-",-0.0,0.0
+3-(Ethoxycarbonyl)-5-nitrobenzoic acid,0.0,0.0
+N-Carbamoyl-2-amino-2-(4-hydroxyphenyl)acetic_acid,0.0,0.0
+Adenosine 2'-monophosphate,0.0,0.0
+"Benzoic acid, 2-hydroxy-4-[[2-[[(4-methylphenyl)sulfonyl]oxy]acetyl]amino]-",-0.0,0.0
+Raltitrexed,-0.0,0.0
+Cinoctramide,0.0,0.0
+8-Acetamido-2-methyl-7-oxononanoic acid,0.0,0.0
+"[DAla2] .alpha.-Neo-Endorphin (1-2), amide",0.0,0.0
+1-O-trans-cinnamoyl-beta-D-glucopyranose,0.0,0.0
+4-O-alpha-D-Galactopyranosylcalystegine_B2,-0.0,0.0
+TURANOSE,0.0,0.0
+Annoglabasin_F,-0.0,0.0
+2-Piperazinecarboxamide,-0.0,0.0
+"N6-(2,4-Dinitrophenyl)-L-lysine",0.0,0.0
+"6-[(2,4-Dinitrophenyl)amino]hexanoic acid",0.0,0.0
+"Cyclopropanecarboxamide, N-[(1S)-2-[4-(5-bromo-2,3-dihydro-2-oxo-1H-benzimidazol-1-yl)-1-piperidinyl]-1-methylethyl]-2-phenyl-, (1R,2R)-",0.0,0.0
+4-(Hydroxymethyl)benzenesulfonic acid,-0.0,0.0
+Ciclesonide,0.0,0.0
+3-O-p-trans-Coumaroylalphitolic_acid,-0.0,0.0
+"3-Methyl-1-(2,4,6-trihydroxyphenyl)butan-1-one",0.0,0.0
+L-.beta.-Homoglutamine,0.0,0.0
+Biotin-XX hydrazide,0.0,0.0
+"[(3R,3'R,4R,6'S,7R)-4,7-Diacetyloxy-5-hydroxy-6',7-dimethyl-6,8-dioxospiro[4H-isochromene-3,2'-oxane]-3'-yl] acetate",-0.0,0.0
+(2R)-2-(.beta.-D-Glucopyranosyloxy)-2-phenylacetamide,0.0,0.0
+10'-apo-beta-carotenal,-0.0,0.0
+Asp-Ala,0.0,0.0
+CRUSTECDYSONE,-0.0,0.0
+2-(4-Amino-1-piperidinyl)acetamide,-0.0,0.0
+N-(2-Hydroxy-3-methylbutanoyl)valine,0.0,0.0
+3-(4-Methyl-3-pentenyl)thiophene,0.0,0.0
+coniferin,0.0,0.0
+Cercosporamide,0.0,0.0
+Tyr-Tyr,-0.0,0.0
+Leu-Leu-amide,0.0,0.0
+Pilocarpine,0.0,0.0
+Bifenazate,0.0,0.0
+Oxybutynin N-oxide,-0.0,0.0
+"(3beta,17alpha,23S)-17,23-Epoxy-3,28,29-trihydroxy-27-norlanost-8-en-24-one",-0.0,0.0
+3-Propyl-2-methylpyrazine,0.0,0.0
+"Benzenehexanamide, .beta.-hydroxy-N-[1-(hydroxymethyl)-3-methylbutyl]-.delta.-oxo-",0.0,0.0
+Ciprofloxacin,0.0,0.0
+"Carbamic acid, [3-methyl-1-[[[1-[oxo[(2-pyridinylmethyl)amino]acetyl]butyl] amino]carbonyl]butyl]-, phenylmethyl ester",0.0,0.0
+Leu-Trp,0.0,0.0
+Erythronolactone,-0.0,0.0
+"Dimethyl_3-methoxy-4-oxo-5-(8,11,14-pentadecatrienyl)-2-hexenedioate",-0.0,0.0
+Triacetin (C2:0),0.0,0.0
+"7-[2,6-dimethyl-8-(2-methylbutanoyloxy)-1,2,6,7,8,8a-hexahydronaphthalen-1-yl]-3,5-dihydroxyheptanoic acid",0.0,0.0
+Oxyacanthine,-0.0,0.0
+6-Fluoronicotinic acid,-0.0,0.0
+"DL-2,3-Diaminopropionic acid",0.0,0.0
+LysoPC(14:1(9Z)),-0.0,0.0
+3-O-Feruloylquinic acid,0.0,0.0
+"(2R)-3-(tert-Butylamino)propane-1,2-diol",-0.0,0.0
+Mecarbam,-0.0,0.0
+N1-Acetylspermine,0.0,0.0
+"(3beta,5alpha,6beta,9alpha,22E,24R)-23-Methylergosta-7,22-diene-3,5,6,9-tetrol",-0.0,0.0
+Neophellamuretin,-0.0,0.0
+Mitragynine,-0.0,0.0
+.alpha.-Hydroxyfarnesylphosphonic acid,0.0,0.0
+"(2E,4E,12Z)-N-(2-methylpropyl)octadeca-2,4,12-trienamide",-0.0,0.0
+(1-Methyl-1H-pyrazol-5-yl)methanol,0.0,0.0
+Candidone,-0.0,0.0
+His-Val,-0.0,0.0
+Mesotrione,0.0,0.0
+"16-Heptadecyne-1,2,4-triol",-0.0,0.0
+2alpha-Hydroxypyracrenic_acid,-0.0,0.0
+1-Aminoanthraquinone-2-carboxylic acid,-0.0,0.0
+"TRH, free acid",0.0,0.0
+2-Propene-1-thiol,0.0,0.0
+8-Hydroxy-5-[1-hydroxy-2-(isopropylamino)butyl]-2(1H)-quinolinone,0.0,0.0
+Metalaxyl,-0.0,0.0
+"2,3,4-Trihydroxybenzaldehyde (4-chlorophenyl)hydrazone",0.0,0.0
+4-(1H-Indol-3-yl)-1-(morpholin-4-yl)butan-1-one,0.0,0.0
+Fesoterodine,0.0,0.0
+Andrographiside,0.0,0.0
+3-(Morpholine-4-carboxamido)phenyl morpholine-4-carboxylate,0.0,0.0
+Lovastatin,-0.0,0.0
+2-Hexylbutanedioic acid,0.0,0.0
+Parakmerin_A,-0.0,0.0
+"1,2-Diacetylhydrazine",0.0,0.0
+4-Bromo-2-{[(1-propyl-1H-benzimidazol-2-yl)amino]methyl}phenol,0.0,0.0
+Tyr-Val,-0.0,0.0
+N-Arachidonoyl-3-hydroxy-.gamma.-aminobutyric acid,-0.0,0.0
+Capsi-amide,0.0,0.0
+"2,6-Piperidinedicarbonitrile",0.0,0.0
+"(4OH,8Z,t18:1)_sphingosine",-0.0,0.0
+2-Furyl methyl ketone,0.0,0.0
+4-[4-(2-Butoxyethoxy)-5-methyl-2-thiazolyl]-2-fluorobenzoic acid,0.0,0.0
+"(1r,3R,4s,5S)-4-(((2E)-3-(3,4-Dihydroxyphenyl)prop-2-enoyl)oxy)-1,3,5-trihydroxycyclohexanecarboxylic acid",-0.0,0.0
+"5-Amino-2-(3-hexyl-4-methyl-2,5-dioxopyrrol-1-yl)-5-oxopentanoic acid",0.0,0.0
+Tetrahydroharman-3-carboxylic acid,0.0,0.0
+(2S)-2-{[1-(R)-Carboxyethyl]amino}pentanoate,-0.0,0.0
+Mestranol,0.0,0.0
+Helvolic acid,-0.0,0.0
+3-(3-(.beta.-D-Glucopyranosyloxy)-2-methoxyphenyl)propanoic acid,0.0,0.0
+"DG(15:0/22:6(4Z,7Z,10Z,13Z,16Z,19Z)/0:0)",-0.0,0.0
+2-Furyl(oxo)acetic acid,-0.0,0.0
+N-(4-Nitrobenzoyl)phenylalanine,0.0,0.0
+"(17Z)-16-(Acetyloxy)-6-hydroxy-4,8,14-trimethyl-3,7-dioxo-18-norcholesta-17,24-dien-21-oic acid",0.0,0.0
+".beta.-D-Glucopyranoside, 4-[(4-carboxy-3-hydroxy-3-methyl-1-oxobutoxy)methyl]phenyl",-0.0,0.0
+6-(Dimethylamino)naphthalene-2-carboxylic acid,0.0,0.0
+5-Hydroxy-2-{[(4-nitrophenoxy)acetyl]amino}benzoic acid,0.0,0.0
+"1H-Indole-3-carboxamide, 1-(5-fluoropentyl)-N-2-naphthalenyl-",0.0,0.0
+Anhydrolutein-I,-0.0,0.0
+Arachidonyl trifluoromethyl ketone,-0.0,0.0
+Acetylursolic acid methyl ester,0.0,0.0
+"5-(10-Nonadecenyl)-1,3-benzenediol",-0.0,0.0
+Mibefradil,-0.0,0.0
+"2,4-Pyrimidinediamine, 5-[[3-methoxy-4-[(4-methoxyphenyl)methoxy]phenyl]methyl]-",0.0,0.0
+"2-[3-[(E)-6-Acetyloxy-2-hydroxy-6-methyl-3-oxohept-4-en-2-yl]-6-(carboxymethyl)-2-hydroxy-3a,5a,9b-trimethyl-5-oxo-2,3,4,6,9,9a-hexahydro-1H-cyclopenta[a]naphthalen-7-yl]-2-methylpropanoic acid",0.0,0.0
+L-Thiocitrulline,-0.0,0.0
+Benzenesulfonic acid,0.0,0.0
+Prednisone,0.0,0.0
+"(1aS,2S,6S,6aS)-6-((6-Deoxy-3-O-.beta.-D-glucopyranosyl-4-O-((2E)-3-(4-methoxyphenyl)prop-2-enoyl)-.alpha.-L-mannopyranosyl)oxy)-1a-(hydroxymethyl)-1a,1b,2,5a,6,6a-hexahydrooxireno[4,5]cyclopenta[1,2-c]pyran-2-yl .beta.-D-glucopyranoside",0.0,0.0
+Loratadine,0.0,0.0
+"9-Benzyl-5-[(furan-2-ylmethyl)amino]-7,8,9,10-tetrahydro[1,2,4]triazolo[3,4-a][2,7]naphthyridine-6-carbonitrile",0.0,0.0
+"1,7-Bis[(Z)-but-2-en-2-yl]-3,9-dihydroxy-4,10-dimethyl-6-oxobenzo[b][1,4]benzodioxepine-2-carboxylic acid",0.0,0.0
+"N-(2,4-Dinitrophenyl)glycine",-0.0,0.0
+Bevantolol,0.0,0.0
+Chrodrimanin B,-0.0,0.0
+Naringin dihydrochalcone,-0.0,0.0
+Janerin,-0.0,0.0
+Lepidine_F,0.0,0.0
+"3,3'-Disulfanediylbis(2-(2,2,2-trifluoroacetamido)propanoic acid)",0.0,0.0
+Pyrithiobac,0.0,0.0
+decyl acetate,-0.0,0.0
+Sch 210972,-0.0,0.0
+(2S)-3-(1-Benzyl-1H-imidazol-4-yl)-2-{[(tert-butoxy)carbonyl]amino}propanoic acid,0.0,0.0
+2-Bromo-6-chlorobenzoic acid,0.0,0.0
+3-Isomangostin,-0.0,0.0
+Sethoxydim,0.0,0.0
+Formoterol,0.0,0.0
+VALDECOXIB,0.0,0.0
+"(4R)-4-Methyl-6-[1-methyl-3-(1-methylpyrazol-4-yl)indazol-5-yl]-1,3,4,5-tetrahydro-1,5-benzodiazepin-2-one",0.0,0.0
+cis-Geranylgeranylbixin,-0.0,0.0
+Arvenin III,-0.0,0.0
+Fluvoxamine_acid,-0.0,0.0
+DOCOSANOL,-0.0,0.0
+N2-Fructopyranosylarginine,-0.0,0.0
+"N-(2-Phosphate-1R-methylethyl)-5Z,8Z,11Z,14Z-eicosatetraenamide",-0.0,0.0
+Chemotatic Peptide,0.0,0.0
+"2-(2-oxo-8,9-dihydrofuro[2,3-h]chromen-8-yl)propan-2-yl acetate",0.0,0.0
+Flavaspidic acid AB,-0.0,0.0
+Ganoderic acid H,-0.0,0.0
+Acetylvalerenolic_acid,0.0,0.0
+Flibanserin,0.0,0.0
+"4-Isoxazolepropanoic acid, .alpha.-amino-2,3-dihydro-5-methyl-3-oxo-",-0.0,0.0
+Euphorbiasteroid,-0.0,0.0
+Nitrofurazone,-0.0,0.0
+"4',5,7-trihydroxy-3,6-dimethoxyflavone",0.0,0.0
+3-Oxocyclobutanecarboxylic acid,0.0,0.0
+"2-(4-Morpholinyl)ethyl 2,4-dihydroxybenzoate",-0.0,0.0
+Citrusin_E,0.0,0.0
+N-Acetylphenylalanylvaline,0.0,0.0
+Amphibine_H,0.0,0.0
+"Piperazine, 1-[2-[bis(4-fluorophenyl)methoxy]ethyl]-4-(3-phenylpropyl)-",-0.0,0.0
+N-(5-Chloropyridin-2-yl)-2-oxo-2-(pyrrolidin-1-yl)acetamide,0.0,0.0
+TDP-2,-0.0,0.0
+MLS001148159-01!METHYLPREDNISOLONE,-0.0,0.0
+Triclabendazole,0.0,0.0
+"6-[(E)-2,8-Dihydroxy-5,7-dimethylnon-5-enyl]-4-hydroxy-3-methylpyran-2-one",0.0,0.0
+PC(15:0/P-18:0),0.0,0.0
+"6b-Hydroxy-2,2-dimethyl-14a-(2-methylbut-3-en-2-yl)-2,6b,7,7a,10,11,12,12a,14a,15-decahydro-8H,13H-pyrano[3,2-g]pyrrolo[1'',2'':4',5']pyrazino[1',2':1,5]pyrrolo[2,3-b]indole-8,13-dione",-0.0,0.0
+Procaterol,-0.0,0.0
+"2,3-Dinorthromboxane B1",-0.0,0.0
+N-.gamma.-Acetyl-N-2-formyl-5-methoxykynurenamine,-0.0,0.0
+"1,3-Diacetoxy-4,6,12-tetradecatriene-8,10-diyne",0.0,0.0
+N-(tert-Butoxycarbonyl)tryptophan,0.0,0.0
+Anacine,0.0,0.0
+Desoxypipradrol,0.0,0.0
+Gossyvertin,0.0,0.0
+8'-Apocapsorbinal,0.0,0.0
+"Methanone, 1-naphthalenyl[2-(1-naphthalenyl)-1-pentyl-1H-pyrrol-3-yl]-",-0.0,0.0
+6-Furfurylaminopurine,0.0,0.0
+"6,7-Dimethyl-8-(1-D-ribityl)lumazine",0.0,0.0
+Bilobol,-0.0,0.0
+N-(4-Fluorophenyl)-4-(2-methoxyphenyl)piperazine-1-carbothioamide,-0.0,0.0
+6.alpha.-Hydroxybudesonide,0.0,0.0
+Secologanin,0.0,0.0
+"Benzeneethanamine, 2,5-dimethoxy-N-[(2-methoxyphenyl)methyl]-4-(methylthio)-",0.0,0.0
+"(2S,3R)-2,3,4-Trihydroxybutyl 2,6-di-O-acetyl-3-O-dodecanoyl-.beta.-D-mannopyranoside",0.0,0.0
+Termitomycamide E,-0.0,0.0
+Antibiotic FR 901512,-0.0,0.0
+"4-((N-(4-((N-Acetylvalylvalyl)amino)-3-hydroxy-6-methylheptanoyl)alanyl)amino)-2,4,5,6-tetradeoxy-6-methylheptonic acid",-0.0,0.0
+Chymostatin,-0.0,0.0
+5-Hydroxyisophthalic acid,0.0,0.0
+Caylin-2,0.0,0.0
+Zearalenone,-0.0,0.0
+"(1-Acetyloxy-3-hydroxy-6,8a-dimethyl-7-oxo-3-propan-2-yl-2,3a,4,8-tetrahydro-1H-azulen-4-yl) 4-hydroxybenzoate",-0.0,0.0
+"(2S,3R,4R,5R,6R)-2-Methyl-6-[[(2R,3S,4S,5R,6R)-3,4,5-trihydroxy-6-[(E)-7-hydroxy-3,7-dimethyloct-3-enoxy]oxan-2-yl]methoxy]oxane-3,4,5-triol",0.0,0.0
+Vacor,0.0,0.0
+N-Phenylacetyl-L-prolylglycine ethyl ester,-0.0,0.0
+"1,3,5-Trimethyl-2,6-diphenyl-4-piperidinol",-0.0,0.0
+N-Benzoylaminopurine,-0.0,0.0
+Doxazosin,0.0,0.0
+2-(Dimethylamino)ethane-1-sulfonic acid,0.0,0.0
+Tripropylene glycol,-0.0,0.0
+N-Formyl-4-aminoantipyrine,0.0,0.0
+rac-trans-4-Cotininecarboxylic acid methyl ester,-0.0,0.0
+Soyacerebroside II,0.0,0.0
+"2-Oxiraneoctanoic acid, .eta.-hydroxy-3-octyl-",0.0,0.0
+"4,6-Dihydroxypyrimidine",-0.0,0.0
+2-Hydroxy-3-isopropyl-6-methylbenzoic acid,-0.0,0.0
+3-Methylbenzoate,0.0,0.0
+N6-Methyladenine,-0.0,0.0
+"(12Z)-9,10,11-Trihydroxyoctadec-12-enoic acid",0.0,0.0
+"1,3-Dimethylbarbituric acid",0.0,0.0
+(3.beta.)-Allopregnanolone sulfate,-0.0,0.0
+"(10E,15Z)-9,12,13-Trihydroxyoctadeca-10,15-dienoic acid",-0.0,0.0
+"7-Methylimidazo[1,2-a]pyrimidin-5(1H)-one",-0.0,0.0
+D-Ribose,0.0,0.0
+Olmesartan,-0.0,0.0
+Trihydroxycholestanoic acid,-0.0,0.0
+N-Nitrosopyrrolidine,0.0,0.0
+9-HPODE,-0.0,0.0
+N-Methylcalystegine_C1,0.0,0.0
+2-(3-Pyridinyl)-1-azabicyclo[3.2.2]nonane,-0.0,0.0
+5-Nitroquinolin-8-ol,-0.0,0.0
+"2',4',6'-Trihydroxydihydrochalcone",-0.0,0.0
+Laurylsulfuric acid,-0.0,0.0
+"6,7-Dihydro-2-methyl-5H-cyclopenta[b]pyrazine",-0.0,0.0
+cyclopentolate,-0.0,0.0
+Nitracaine,-0.0,0.0
+4-Piperidinecarboxamide,0.0,0.0
+Val-Pro,-0.0,0.0
+Nonanohydrazide,-0.0,0.0
+2-Hydroxy-6-methylquinoline-3-carbaldehyde,-0.0,0.0
+Thr-Val,-0.0,0.0
+1.alpha.-Methyl-5.alpha.-androstan-3.alpha.-ol-17-one glucuronide,0.0,0.0
+N-Desmethyltramadol,-0.0,0.0
+N-(3-Piperidinyl)propanamide,0.0,0.0
+"15(R),19(R)-Hydroxyprostaglandin F1.alpha.",-0.0,0.0
+Picolinamide,-0.0,0.0
+4-Methyl-1H-pyrazole,0.0,0.0
+L-trans-5-Hydroxy-2-piperidinecarboxylic_acid,0.0,0.0
+Averufin,-0.0,0.0
+Dulcin,-0.0,0.0
+1-(2-Methoxyethyl)piperazine,0.0,0.0
+"(3R,6S,6aS,10S,12aS,13aR,14S)-1-Ethyl-12a,14-dihydroxy-6-methoxy-3-methyl-8-oxotetradecahydro-7H-3,6a,13-(epiethane[1,1,2]triyl)-7,10-methanooxepino[3',4':4,5]benzo[1,2-b]azocine",-0.0,0.0
+"2,8-Diazaspiro[5.5]undecane-1,7-dione",-0.0,0.0
+Corypalline,-0.0,0.0
+Sarcosine ethyl ester,0.0,0.0
+Ala-Val,-0.0,0.0
+N-Methyl-N-[2-oxo-2-(1-pyrrolidinyl)ethyl]amine,-0.0,0.0
+Pterine,-0.0,0.0
+Pyroquilon,-0.0,0.0
+2-(Hydroxymethyl)-6-methylpyridin-3-ol,0.0,0.0
+Ceanothic acid,-0.0,0.0
+Norfloxacin,0.0,0.0
+LPE(17:0),-0.0,0.0
+Leu-Thr,0.0,0.0
+"L-Leucine, methyl ester",0.0,0.0
+2-Cyclohexyl-5-nitro-1H-benzimidazole,0.0,0.0
+"3-Methoxy-4-(1,3-oxazol-5-yl)aniline",0.0,0.0
+"3alpha,4,7,7alpha-Tetrahydro-4-hydroxy-1H-isoindole-1,3(2H)-dione",0.0,0.0
+Acebutolol,0.0,0.0
+"Phenol, 5-(1,1-dimethylheptyl)-2-[(1R,2R,5R)-5-hydroxy-2-(3-hydroxypropyl)cyclohexyl]-, rel-(+)-",0.0,0.0
+N-Decanoyl-p-nitroaniline,-0.0,0.0
+8-Oxoadenine,-0.0,0.0
+"5,6,7,8-Tetrahydro-4-methylquinoline",-0.0,0.0
+2-Amino-6-propyl-1H-pyrimidin-4-one,-0.0,0.0
+Ciclopirox,-0.0,0.0
+Ephedrine,-0.0,0.0
+"2,3,4,5-Tetrahydro-6-(5-methyl-2-furanyl)pyridine",-0.0,0.0
+N-Benzylacetamidine,-0.0,0.0
+1-Butylimidazole,-0.0,0.0
+4-Ethylpiperidine,0.0,0.0
+16.beta.-Hydroxyfurazabol,-0.0,0.0
+"4-Hydroxy-1,5-dimethyl-1,2-dihydropyrimidin-2-one",-0.0,0.0
+Betonicine,0.0,0.0
+Disperse Red 17,0.0,0.0
+2-Aminopyridine,-0.0,0.0
+4-Butyloxazole,-0.0,0.0
+Melezitose,0.0,0.0
+(+)-Muscarine cation,-0.0,0.0
+1-Hydroxy-N-(3-nitrophenyl)-2-naphthamide,-0.0,0.0
+Glycerophospho-N-palmitoylethanolamine,-0.0,0.0
+3-Aminobenzoic acid,0.0,0.0
+N-Methyltrimethylacetamide,-0.0,0.0
+Acetophenone,-0.0,0.0
+17-Acetoxygrindelic acid,-0.0,0.0
+Biliverdin,0.0,0.0
+Swainsonine,0.0,0.0
+2-Aminophenol,-0.0,0.0
+Piperidine,0.0,0.0
+Pyrimidinol,-0.0,0.0
+Meperidine,-0.0,0.0
+1-Amino-1-cyclobutanecarboxylic acid,0.0,0.0
+(.+/-.)-Dropropizine,0.0,0.0
+Neostigmine cation,0.0,0.0
+2-(Acetyloxy)-3-methylbenzoic acid,0.0,0.0
+N-Carboxyethyl-r-aminobutyric_acid,0.0,0.0
+Mofebutazone,0.0,0.0
+4-(4-Piperidinyl)morpholine,-0.0,0.0
+3-Hydroxyacetaminophen,-0.0,0.0
+Lupinine,-0.0,0.0
+2-Ethylhexyl 4-(dimethylamino)benzoate,-0.0,0.0
+"2-(2,6-Dimethylmorpholin-4-yl)ethanol",-0.0,0.0
+Dimethylethanolamine,0.0,0.0
+4-Nitro-1-naphthol,-0.0,0.0
+N-Methyltyramine,0.0,0.0
+3-Tetrahydro-2-furanylpropanoic acid,-0.0,0.0
+4-(Dimethylamino)pyridine,-0.0,0.0
+Oxeladin,-0.0,0.0
+Carbetapentane,-0.0,0.0
+Ganoderic Acid G,0.0,0.0
+"L-1,2,3,4-Tetrahydro-beta-carboline-3-carboxylic_acid",-0.0,0.0
+1-(4-Hydroxyphenyl)-2-methylaminoethanone,0.0,0.0
+Phenylpropionylglycine,0.0,0.0
+Steviobioside,0.0,0.0
+"1,3-Cyclohexanedione, 4-(3-azidopropyl)-",0.0,0.0
+Phe-Glu,-0.0,0.0
+Trp-Ile,0.0,0.0
+N-Acetylvanilalanine,0.0,0.0
+4-(Dimethylamino)phenylalanine,0.0,0.0
+"(1S,3R)-1-Aminocyclopentane-1,3-dicarboxylic acid",-0.0,0.0
+3-Piperidin-4-ylpropanoic acid,-0.0,0.0
+L-Glycine ether ester,0.0,0.0
+Laccarin,0.0,0.0
+(R)-Aminocarnitine,-0.0,0.0
+Lys-Ala,0.0,0.0
+"2,2-Bis(hydroxymethyl)-3-quinuclidinone",0.0,0.0
+PRI_275.1391_17.2,-0.0,0.0
+Prilocaine,-0.0,0.0
+Normorphine,0.0,0.0
+HEPTANOIC ACID,0.0,0.0
+Pyridostigmine,0.0,0.0
+"Diethyl 2,4-dimethylpyrrole-3,5-dicarboxylate",0.0,0.0
+D-erythro-Sphingosine C-20,0.0,0.0
+1-Acetyl-4-piperidinecarboxylic acid,0.0,0.0
+Heptadecasphinganine,0.0,0.0
+Leukotriene B3,-0.0,0.0
+"[6]-Gingerdiol_3,5-diacetate",-0.0,0.0
+Ecgonine,0.0,0.0
+4-Nitrophenol,0.0,0.0
+N-Methyl-N-(methylsulfonyl)glycine,0.0,0.0
+Dimethyl hydrogen phosphate,0.0,0.0
+RHAMNOSE,-0.0,0.0
+"1,1-Dioxo-1,2-thiazolidine-3-carboxylic acid",0.0,0.0
+Brucine,-0.0,0.0
+METARAMINOL,-0.0,0.0
+Alnustone,0.0,0.0
+Maltoxazine,0.0,0.0
+Cyanazine,-0.0,0.0
+p-(Isoamyloxy)aniline,-0.0,0.0
+"3-(2,5-Dimethyl-1H-pyrrol-1-yl)benzoic acid",0.0,0.0
+Ile-Gly-Ile,0.0,0.0
+4-(4-Methyl-1-piperazinyl)butanoic acid,0.0,0.0
+Spectinomycin,-0.0,0.0
+Pyropheophorbide-a,-0.0,0.0
+2-Butyl-3-methylpyrazine,0.0,0.0
+"4-Chloro-5,6,7,8-tetrahydroquinazolin-2-amine",-0.0,0.0
+"(2R)-2,4-Dihydroxy-3,3-dimethylbutanoic acid",-0.0,0.0
+4-Chloro-6-(4-propylphenoxy)-2-pyrimidinylamine,0.0,0.0
+"1-O-(2,3,19,23-Tetrahydroxy-23,28-dioxours-12-en-28-yl)hexopyranose",0.0,0.0
+5-O-Feruloylquinic acid,-0.0,0.0
+Pimonidazole,-0.0,0.0
+"(2S)-(+)-5,5-Dimethyl-2-morpholineacetic acid",0.0,0.0
+Coptisine cation,-0.0,0.0
+Methylcodeine,0.0,0.0
+Isoleucylvaline,-0.0,0.0
+2-(1-Adamantyl)-N-hydroxyacetamide,0.0,0.0
+Sph(d18:2),-0.0,0.0
+Isocytosine,-0.0,0.0
+Succinic_acid_semialdehyde,-0.0,0.0
+cis-Pinonic acid,-0.0,0.0
+N-Ethyl-N-methylcathinone,0.0,0.0
+"Acetic acid, 2-[4-[(5,6-diphenyl-2-pyrazinyl)(1-methylethyl)amino]butoxy]-",0.0,0.0
+2-Aminonaphthalene,0.0,0.0
+Tyr-Ile,-0.0,0.0
+1-(4-Pyridinyl)-4-piperidinamine,0.0,0.0
+Ile-Tyr,-0.0,0.0
+Thr-Val-Leu,-0.0,0.0
+"2-Hydroxy-4,6-dimethylpyrimidine",-0.0,0.0
+"3,19-Dihydroxyurs-12-ene-23,28-dioic acid",-0.0,0.0
+1-Palmitoyl-2-hydroxy-sn-glycero-3-phospho-(1'-rac-glycerol),-0.0,0.0
+5-(Ethoxymethyl)-2-methyl-4-pyrimidinamine,0.0,0.0
+LPC(O-18:0),0.0,0.0
+LPE(15:0),-0.0,0.0
+LPS(18:0),-0.0,0.0
+1-(4-Piperidinyl)-2-pyrrolidinone,-0.0,0.0
+Nadolol,-0.0,0.0
+"5,7,2'-Trihydroxyflavone",-0.0,0.0
+"1,7-Dihydroxyxanthone",-0.0,0.0
+"3,4'-Dimethoxy-5,7,3'-trihydroxyflavone",-0.0,0.0
+Arecoline,0.0,0.0
+Benzidine,0.0,0.0
+2-Ethylpyrazine,0.0,0.0
+Dimethirimol,0.0,0.0
+"D-Valine, methyl ester",-0.0,0.0
+3-(5-Chloro-1H-benzimidazol-2-yl)propan-1-amine,0.0,0.0
+3-[(Methylsulfonyl)amino]benzoic acid,0.0,0.0
+11-dehydro_TXB2,0.0,0.0
+"8-Cyclopentyl-1,3-dimethylxanthine",-0.0,0.0
+3-ketosphinganine,-0.0,0.0
+"1,3-Dipalmitoyl-sn-glycero-2-phosphoethanolamine",0.0,0.0
+".beta.-Alanine, N-[2-(2-pyridinyl)-6-(1,2,4,5-tetrahydro-3H-3-benzazepin-3-yl)-4-pyrimidinyl]-, ethyl ester",0.0,0.0
+5-Nitro-2-propoxyaniline,0.0,0.0
+L-3-Aminobutyric acid,0.0,0.0
+Gentisic acid,-0.0,0.0
+Pheophorbide a,0.0,0.0
+beta-Guanidinopropionic acid,-0.0,0.0
+Glucose,0.0,0.0
+Methyl beta-D-glucopyranoside,0.0,0.0
+Cholesteryl sulfate,0.0,0.0
+Taurochenodeoxycholic acid,-0.0,0.0
+Palmitoyl sphingomyelin,0.0,0.0
+1-O-Hexadecyl-sn-glycero-3-phosphocholine (LPC(O-16:0/0:0)),-0.0,0.0
+Caplamin,0.0,0.0
+9-Oxooctadecanoic acid,0.0,0.0
+Glucitol,0.0,0.0
+"1-Methyl-6-oxo-1,6-dihydropyridine-3-carboxylic acid",0.0,0.0
+Melibiose,0.0,0.0
+Taurocholic acid,-0.0,0.0
+Phenacetin,0.0,0.0
+"cis-â9,â10-âEpoxystearic acid",0.0,0.0
+Phe-Val,0.0,0.0
+Choline,0.0,0.0
+Nortropine,-0.0,0.0
+Saccharopine,0.0,0.0
+Daminozide,-0.0,0.0
+3-Methylglutaric acid,-0.0,0.0
+Homoserine,-0.0,0.0
+"4',5-Dihydroxyflavone",0.0,0.0
+N-Acetylmannosamine,0.0,0.0
+"7,12-Dioxolithocholic acid",0.0,0.0
+3-Hydroxyvaleric acid,-0.0,0.0
+Sarcosine,-0.0,0.0
+Lithocholic acid,-0.0,0.0
+3-Methylxanthine,-0.0,0.0
+Glycodeoxycholic acid,-0.0,0.0
+PC(18:1(9E)/18:1(9E)),-0.0,0.0
+PC(18:1(9Z)/18:1(9Z)),-0.0,0.0
+PC(18:1(6Z)/18:1(6Z)),-0.0,0.0
+Isomaltose,-0.0,0.0
+Glyco-beta-muricholic acid,-0.0,0.0
+2-Pyrimidinylacetic acid,0.0,0.0
+Sucrose,0.0,0.0
+beta-Boswellic acid,0.0,0.0
+(Â±)-Stylopine,-0.0,0.0
+4-Ethoxybenzoic acid,-0.0,0.0
+Tyrosine,0.0,0.0
+(-)-Camphoric acid,-0.0,0.0
+Lactose,-0.0,0.0
+Raffinose,-0.0,0.0
+Isolithocholic acid,-0.0,0.0
+Iditol,0.0,0.0
+Methylsuccinic acid,0.0,0.0
+2-Hydroxypalmitic acid,-0.0,0.0
+16-Hydroxypalmitic acid,-0.0,0.0
+Thymidine,0.0,0.0
+1-Methylxanthine,0.0,0.0
+Isodeoxycholic acid,0.0,0.0
+5-Aminosalicylic Acid,0.0,0.0
+Heptadecanoic acid,-0.0,0.0
+Echinocystic acid,0.0,0.0
+N-[3-(2-oxopyrrolidin-1-yl)propyl]acetamide,-0.0,0.0
+Phe-Ala,-0.0,0.0
+Orotic acid,-0.0,0.0
+"cis-8,11,14-Eicosatrienoic acid",0.0,0.0
+N-Acetylgalactosamine,-0.0,0.0
+"5Z,8Z,11Z-Eicosatrienoic acid",0.0,0.0
+Nicotinate,-0.0,0.0
+Riboflavin,0.0,0.0
+6-Hydroxynicotinic acid,0.0,0.0
+Ribothymidine,0.0,0.0
+Pipecolic acid,0.0,0.0
+Solasodine,0.0,0.0
+Xanthine,-0.0,0.0
+6-Aminonicotinic acid,-0.0,0.0
+Suberic acid,0.0,0.0
+"10,13-dimethyl-17-oxo-3-sulfooxy-1,2,3,4,7,8,9,11,12,14,15,16-dodecahydrocyclopenta[a]phenanthrene",-0.0,0.0
+Pyridoxal (Vitamin B6),-0.0,0.0
+Hyodeoxycholic acid,-0.0,0.0
+N1-Methyl-2-pyridone-5-carboxamide,0.0,0.0
+Creatinine,-0.0,0.0
+Linoleic acid,0.0,0.0
+Hesperidin,0.0,0.0
+7-Ketodeoxycholic acid,0.0,0.0
+Pomolic acid,0.0,0.0
+Isobutyrylglycine,-0.0,0.0
+Phe-Pro,0.0,0.0
+L-Alanyl-L-leucine,-0.0,0.0
+Fagomine,-0.0,0.0
+Epicatechin,-0.0,0.0
+3-Hydroxypyruvic acid,-0.0,0.0
+Pimelic acid,0.0,0.0
+cis-11-Eicosenoic acid,0.0,0.0
+Terminolic acid,-0.0,0.0
+Propionic acid,0.0,0.0
+Kynurenic acid,-0.0,0.0
+Hippuric acid,0.0,0.0
+L-âLeucyl-âL-âalanine,-0.0,0.0
+Acetylcarnitine (Car(2:0)),-0.0,0.0
+Metoprolol acid,-0.0,0.0
+Ectoine,0.0,0.0
+Formiminoglutamic acid,0.0,0.0
+Alanine,0.0,0.0
+Isonicotinic acid,0.0,0.0
+Methionine,0.0,0.0
+Malonic acid,-0.0,0.0
+Pipecolamide,-0.0,0.0
+4-Allylcatechol,0.0,0.0
+3-Hydroxymandelic acid,-0.0,0.0
+His-Gly,-0.0,0.0
+3-Methoxytyramine,-0.0,0.0
+Zoxazolamine,-0.0,0.0
+Ofloxacin,0.0,0.0
+2-Methyltetrahydrofuran-3-one,-0.0,0.0
+Phthalic acid,-0.0,0.0
+3-(2-Hydroxyphenyl)propanoic acid,-0.0,0.0
+Fructose,-0.0,0.0
+2-Aminonicotinic acid,0.0,0.0
+Palmitamide,0.0,0.0
+3-Succinoylpyridine,-0.0,0.0
+Histamine,0.0,0.0
+SKF 38393 (hydrochloride),0.0,0.0
+Citraconic acid,0.0,0.0
+Desaminotyrosine,-0.0,0.0
+2-Hydroxybutyric acid,0.0,0.0
+"1,5-Anhydroglucitol",0.0,0.0
+Dihydroberberine,0.0,0.0
+Anabasine,-0.0,0.0
+N-Acetylcadaverine,0.0,0.0
+3-Methylbut-2-enoic acid,-0.0,0.0
+3-Hydroxyisovaleric acid,-0.0,0.0
+Oxypurinol,-0.0,0.0
+Agarotetrol,-0.0,0.0
+cis-Aconitic acid,-0.0,0.0
+4'-Hydroxy-3'-methylacetophenone,0.0,0.0
+Nefopam (hydrochloride),-0.0,0.0
+2-Oxoadipic acid,-0.0,0.0
+Ifenprodil (tartrate),0.0,0.0
+"2,3-Dihydroxybenzoic acid (Pyrocatechuic acid)",-0.0,0.0
+2-Furoylglycine,0.0,0.0
+Milrinone,-0.0,0.0
+"2,6-Dihydroxybenzoic acid",-0.0,0.0
+LPI(17:1),0.0,0.0
+Hydroquinidine,-0.0,0.0
+Phloroglucinaldehyde,-0.0,0.0
+Cimetidine sulfoxide,0.0,0.0
+Lapachol,-0.0,0.0
+Ethylmalonic acid,0.0,0.0
+S-Methylmethionine,-0.0,0.0
+Glu-Arg,-0.0,0.0
+Nipecotic acid,0.0,0.0
+Tramiprosate,-0.0,0.0
+"4-(4'-Methyl-[2,2'-bipyridin]-4-yl)butanoic acid",-0.0,0.0
+Daidzin,-0.0,0.0
+N-Methylglutamic acid,-0.0,0.0
+Amitriptyline (hydrochloride),0.0,0.0
+1-Deoxymannojirimycin (hydrochloride),0.0,0.0
+N-Acetylglutamic acid,-0.0,0.0
+Chenodeoxycholic acid,0.0,0.0
+Apocholic acid,-0.0,0.0
+Monomethyl fumarate,-0.0,0.0
+7-Methylguanosine,-0.0,0.0
+1-Methylhistamine,-0.0,0.0
+3-Methyluridine,-0.0,0.0
+4-(Methylamino)butanoic acid,-0.0,0.0
+Arachidonoylcarnitine (Car(20:4)),0.0,0.0
+6-Acetamidohexanoic acid,0.0,0.0
+(2R)-6-Oxo-2-piperidinecarboxylic acid,0.0,0.0
+"N,N-Dimethylarginine (ADMA)",-0.0,0.0
+Tetradecyl sulfate (sodium),0.0,0.0
+Hyocholic acid,-0.0,0.0
+"1,3,7-Trimethyluric acid",-0.0,0.0
+5-Aminopentanoic acid,0.0,0.0
+3-Methyladenine,-0.0,0.0
+2'-Hydroxy-5'-methylacetophenone,0.0,0.0
+"2,6-Dimethyl-4-hydroxybenzaldehyde",0.0,0.0
+Glycochenodeoxycholic acid,0.0,0.0
+Dimethylglycine,-0.0,0.0
+Sph(d18:0),0.0,0.0
+2-Hydroxy-2-methylbutyric acid,-0.0,0.0
+Miglitol,0.0,0.0
+Arginine,0.0,0.0
+2'-Hydroxy-4'-methylacetophenone,0.0,0.0
+4â²-Hydroxy-2â²-methylacetophenone,0.0,0.0
+N-Acetylputrescine,0.0,0.0
+Mannose,-0.0,0.0
+S-Adenosylmethionine,-0.0,0.0
+4-(dimethylamino)butanoate,0.0,0.0
+Cytisine,0.0,0.0
+Betaine aldehyde,-0.0,0.0
+Proline,-0.0,0.0
+3-Methoxyphenylacetic acid,-0.0,0.0
+Allopurinol,-0.0,0.0
+LPG(18:1(9Z)),-0.0,0.0
+Diethanolamine,0.0,0.0
+Nicotinamide riboside (NR),-0.0,0.0
+Taurodeoxycholic acid,0.0,0.0
+1-Methylpseudouridine,-0.0,0.0
+"2,3-Pentanedione",-0.0,0.0
+Sorbose,-0.0,0.0
+Thiamine,-0.0,0.0
+Ethyl 4-hydroxybenzoate,-0.0,0.0
+4-Hydroxybenzaldehyde,-0.0,0.0
+Docebenone,-0.0,0.0
+11-Dehydrocorticosterone,-0.0,0.0
+Cyclopropylacetic acid,-0.0,0.0
+2-Phenyllactic acid,-0.0,0.0
+o-Tyrosine,0.0,0.0
+3-hydroxybenzaldehyde,-0.0,0.0
+2-(Methylamino)-1-(morpholin-4-yl)ethan-1-one,0.0,0.0
+Ethyl 3-piperidinecarboxylate,0.0,0.0
+Elemadienonic acid,-0.0,0.0
+N-Benzyl-2-naphthalenesulfonamide,-0.0,0.0
+3-Sulfinoalanine,0.0,0.0
+(2E)-4-Hydroxybut-2-enoic acid,0.0,0.0
+Dolasetron,0.0,0.0
+Alprazolam,-0.0,0.0
+"4-Allyl-3-(4-chlorobenzyl)-1H-1,2,4-triazole-5-thione",0.0,0.0
+"4-(2,5-Dioxo-1-pyrrolidinyl)butanoic acid",-0.0,0.0
+"3,5,7-Trihydroxy-3',4',5'-trimethoxyflavone",-0.0,0.0
+2-[(Dimethylamino)methyl]cyclohexanone,0.0,0.0
+"4-[3-Methyl-5-(5,6,7-trihydroxy-1,2,4a,5-tetramethyl-3,4,6,7,8,8a-hexahydro-2H-naphthalen-1-yl)pentoxy]-4-oxobutanoic acid",-0.0,0.0
+"2,4,6-Trimethoxypyrimidine",0.0,0.0
+Lotaustralin,0.0,0.0
+Propionylpromazine (hydrochloride),0.0,0.0
+schisandrin B,-0.0,0.0
+Morphine N-oxide,-0.0,0.0
+Cortisone_acetate,-0.0,0.0
+R-Palmitoyl-(2-methyl) ethanolamide,0.0,0.0
+"6,7-Dihydro-5H-cyclopenta[d]pyrimidine-2,4-diamine",0.0,0.0
+"4-Chloro-8-methoxy-5H-pyrimido[5,4-b]indole",-0.0,0.0
+"(3xi,6xi)-Cyclo(alanylvalyl)",0.0,0.0
+"1H-Spiro[benzo[4,5]imidazo[1,2-a][1,3,5]triazine-4,1'-cyclopentan]-2-amine",0.0,0.0
+N-Acetylglycylglycine,-0.0,0.0
+Clausarin,-0.0,0.0
+"3-[(1E,3E)-Hepta-1,3-dienyl]pentanedioic acid",-0.0,0.0
+Arg-Asp,-0.0,0.0
+"4-(7-Hydroxy-6-methoxy-2,3-dimethyl-1,2,3,4-tetrahydronaphthalen-1-yl)benzene-1,2-diol",0.0,0.0
+"Dihydro-6-isopropyl-2,4-dimethyl-4H-1,3,5-dithiazine",0.0,0.0
+.beta.-Glutamic acid,0.0,0.0
+tertatolol,-0.0,0.0
+(2-Biphenyl)dicyclohexylphosphine,-0.0,0.0
+"2-Propenethioamide, 3-[3,5-bis(1,1-dimethylethyl)-4-hydroxyphenyl]-2-cyano-, (2E)-",-0.0,0.0
+"1-[(1-Ethyl-3,5-dimethyl-1H-pyrazol-4-yl)sulfonyl]piperidine-4-carboxylic acid",-0.0,0.0
+"1-(Pyrimidin-2-yl)-1,4-diazepane",0.0,0.0
+"Methyl (4aR,4bR,10aR,12aS)-6,10-dihydroxy-3,4b,7,7,10a,12a-hexamethyl-12-methylidene-1,4,5,8-tetraoxo-9,10,10b,11-tetrahydronaphtho[2,1-f]isochromene-4a-carboxylate",-0.0,0.0
+"2-Bromoestra-1,3,5(10)-triene-3,17-diol",0.0,0.0
+N-(1H-Benzimidazol-2-yl)-4-fluorobenzamide,0.0,0.0
+Sedoheptulosan,-0.0,0.0
+"N-(2,6-Dimethylphenyl)-1-piperazineacetamide",0.0,0.0
+9-[2-(4-Morpholinyl)ethyl]-9H-purin-6-ylamine,-0.0,0.0
+Methixene,-0.0,0.0
+"3-[4-(4-Hydroxy-2-quinazolinyl)benzyl]-2,4-imidazolidinedione",0.0,0.0
+"[DAla2] .beta.-Casomorphin (1-3), amide, bovine",0.0,0.0
+3-[(Ethylanilino)methyl]benzenesulfonic acid,-0.0,0.0
+"4-{[4'-Methyl-2'-(propanoylamino)-4,5'-bi-1,3-thiazol-2-yl]amino}benzoic acid",0.0,0.0
+Equilin 3-sulfate,-0.0,0.0
+3-Succinimidopropionic acid,0.0,0.0
+Monomethylsulochrin,0.0,0.0
+Yohimbine,-0.0,0.0
+Rosmaricine,0.0,0.0
+2-Keto-6-acetamidocaproate,0.0,0.0
+"2,2'-(3-(Trifluoromethyl)phenylazanediyl)diethanol",0.0,0.0
+"N2-Benzyl-1,3,5-triazine-2,4-diamine",-0.0,0.0
+Arachidonic sulfonic acid,-0.0,0.0
+"[(4,6-Dimethyl-2-pyrimidinyl)amino]acetic acid",0.0,0.0
+4-(2-Trifluoromethylphenyl)piperidine,-0.0,0.0
+Bazedoxifene,-0.0,0.0
+N-Benzyladenine,0.0,0.0
+"1,3-Bis[3-(4,5-dihydro-1H-imidazol-2-yl)phenyl]urea",-0.0,0.0
+Trimethobenzamide,-0.0,0.0
+"3',5'-Cyclic Inosine monophosphate",-0.0,0.0
+3-{2-[2-(2-Cyanoethoxy)ethoxy]ethoxy}propanenitrile,-0.0,0.0
+"4-Piperidinamine, 1-(9H-purin-6-yl)-",0.0,0.0
+LPC(18:1),0.0,0.0
+Pelitinib,-0.0,0.0
+Tyr-Phe,0.0,0.0
+Barbital,-0.0,0.0
+"17-Trifluoromethylphenyl-13,14-dihydrotrinorprostaglandin F1.alpha.",-0.0,0.0
+"3-Amino-3,5-dihydro-4H-pyrimido[5,4-b]indol-4-one",-0.0,0.0
+Trp-Leu,-0.0,0.0
+Cys-Asp,-0.0,0.0
+L-.beta.-Homomethionine,-0.0,0.0
+Hydroheptelidic acid,0.0,0.0
+"N-Pentyl-5,6,7,8-tetrahydro[1]benzothieno[2,3-d]pyrimidin-4-amine",-0.0,0.0
+"4-(7-Hydroxy-3-(hydroxymethyl)-5-(3-hydroxypropyl)-2,3-dihydro-1-benzofuran-2-yl)-2-methoxyphenyl .beta.-D-xylopyranoside",0.0,0.0
+3-Methyl-.gamma.-butyrolactone,0.0,0.0
+"2-Amino-1,7,9-trimethylimidazo[4,5-g]quinoxaline",-0.0,0.0
+"7-Amino-2-methylpyrazolo[1,5-a]pyrimidine-6-carbonitrile",0.0,0.0
+"2,2-Dimethylglutaric acid",-0.0,0.0
+"N-(6-Amino-1-butyl-2,4-dioxo-1,2,3,4-tetrahydro-5-pyrimidinyl)-N-methylbenzamide",0.0,0.0
+2-Chloro-N-dodecylacetamide,0.0,0.0
+"3-Pyridinecarbonitrile, 1,2-dihydro-4-methyl-2-thioxo-6-(trifluoromethyl)-",0.0,0.0
+Rhodomyrtosone D,0.0,0.0
+2-Amino-3-[4-(carboxymethyl)phenyl]propanoic acid,-0.0,0.0
+N-(tert-Butyl)-4-fluorobenzenesulfonamide,-0.0,0.0
+"3,6-Dichloro-5-nitro-4-pyridazinamine",0.0,0.0
+Lys-Ile,0.0,0.0
+Dovitinib,-0.0,0.0
+Lysionotin,0.0,0.0
+Stigmastadienone,0.0,0.0
+Probucol,0.0,0.0
+"16:0 PE (1,2-dipalmitoyl-sn-glycero-3-phosphoethanolamine)",-0.0,0.0
+3-Hydroxyoctadecanoic acid,0.0,0.0
+N-Acetyl-L-glutamate_5-semialdehyde,0.0,0.0
+Geraldol,-0.0,0.0
+"7-(4-Methoxyphenyl)-2,4-pteridinediol",-0.0,0.0
+3-Piperidinecarboxamide,0.0,0.0
+Piperazine-2-carboxylic acid,0.0,0.0
+Cucurbitacin_B,0.0,0.0
+Doramapimod,-0.0,0.0
+trans-Zeatin,-0.0,0.0
+Rheidin_A,-0.0,0.0
+Cafestol acetate,-0.0,0.0
+"2-((4-Methylpiperazin-1-yl)methyl)-5,6,7,8-tetrahydrobenzo[4,5]thieno[2,3-d]pyrimidin-4-ol",0.0,0.0
+Lys-Arg,0.0,0.0
+Glabridin,0.0,0.0
+"5-(3,4'-Dihydroxy-4,4,7,8a-tetramethyl-6'-oxospiro[2,3,4a,5,6,7-hexahydro-1H-naphthalene-8,2'-3,8-dihydrofuro[2,3-e]isoindole]-7'-yl)pentanoic acid",-0.0,0.0
+1-(2-Chloro-4-nitrophenyl)-3-methylpiperazine,0.0,0.0
+Duloxetine,-0.0,0.0
+5-(4-Methylpiperazin-1-yl)-5-oxopentanoic acid,-0.0,0.0
+"[1]Benzothiopyrano[4,3-b]indole, 6,11-dihydro-",0.0,0.0
+D-Urobilinogen,0.0,0.0
+"2,4-Dodecadienamide, N-(p-hydroxyphenethyl)-, (E,E)-",-0.0,0.0
+"5,6-Isopropylidene-L-ascorbic acid",-0.0,0.0
+Cryptotanshinone,-0.0,0.0
+2-Methyl-N-(4-methylphenyl)benzenesulfonamide,-0.0,0.0
+D-Glucosaminic acid,0.0,0.0
+"Ethanone, 1-(1-pentyl-1H-indol-3-yl)-2-phenyl-",0.0,0.0
+Uniconazole-P,-0.0,0.0
+"12-Methoxy-8,11,13-abietatrien-20,11-olide",-0.0,0.0
+Gly-Pro-Arg,-0.0,0.0
+"3-Cyano-4,7-dimethylcoumarin",0.0,0.0
+Mulberrofuran_A,-0.0,0.0
+Valyl-Glycine,0.0,0.0
+"1-Hydroxy-3,5-dimethoxy-2,4-diprenylxanthone",-0.0,0.0
+"4,4'-Thiodianiline",0.0,0.0
+"2-[1-[4,5-Dihydroxy-3-[(2S,3R,4S,5S,6R)-3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]oxyoxan-2-yl]indol-3-yl]acetic acid",-0.0,0.0
+9-(Methoxycarbonyl)dec-9-enoic acid,-0.0,0.0
+PC(O-40:8),0.0,0.0
+Dothiepin,0.0,0.0
+Mebendazole,0.0,0.0
+Ecgonine ethyl ester,-0.0,0.0
+Netilmicin,-0.0,0.0
+Methyl 1-aminocyclopropanecarboxylate,-0.0,0.0
+"(4-Oxo-1,3-thiazolidin-3-yl)acetic acid",-0.0,0.0
+Balenine,-0.0,0.0
+(-)-Epigallocatechin,-0.0,0.0
+"(6-Methyl-3-oxo-2,3-dihydro-4H-1,4-benzoxazin-4-yl)acetic acid",-0.0,0.0
+Fludarabine,0.0,0.0
+N-Cyclohexylbenzenecarbothioamide,0.0,0.0
+"5-(3,4-Dihydroxyphenyl)-6,7-dimethyl-5,6,7,8-tetrahydronaphthalene-2,3-diol",0.0,0.0
+Benztropine,0.0,0.0
+Salermide,0.0,0.0
+"Ethanone, 2-(4-methylphenyl)-1-(1-pentyl-1H-indol-3-yl)-",0.0,0.0
+"1H-Indazole-1-pentanoic acid, 3-[[[1-(aminocarbonyl)-2,2-dimethylpropyl]amino]carbonyl]-",-0.0,0.0
+1h-indole-3-butanoic acid,0.0,0.0
+"1-Methyl-3,4-bis(indol-3-yl)maleimide",-0.0,0.0
+Heroin,0.0,0.0
+Colchicine,0.0,0.0
+Dehydropipernonaline,-0.0,0.0
+6-Ketoestriol,-0.0,0.0
+"2-(3-Carboxy-4-chlorophenyl)-1,3-dioxo-2,3-dihydro-1H-isoindole-5-carboxylic acid",-0.0,0.0
+Nalbuphine,0.0,0.0
+"Urea, N-[4-[4-amino-1-(1-methylethyl)-1H-pyrazolo[3,4-d]pyrimidin-3-yl]phenyl]-N'-[3-(trifluoromethyl)phenyl]-",0.0,0.0
+Nylidrin,-0.0,0.0
+Magnolin,0.0,0.0
+"(3S)-3,6-Diaminohexanoate",0.0,0.0
+Crassostrea_Secocarotenoid,-0.0,0.0
+p-Acetaminobenzaldehyde,0.0,0.0
+"3-Hydroxy-4,6-heptadiyne-1-yl_1-glucoside",0.0,0.0
+Mycotoxin_T_2,0.0,0.0
+N-Octanoylsphingosine-1-phosphate,-0.0,0.0
+Levonorgestrel_oxime,0.0,0.0
+Amobarbital,-0.0,0.0
+Galactosyl_4-hydroxyproline,0.0,0.0
+"3-(3,4-Dimethoxyphenyl)-6-hydroxy-4-methylcoumarin",0.0,0.0
+"(E,E)-Boviquinone_3",-0.0,0.0
+Mardepodect,-0.0,0.0
+8-Isobutanoylneosolaniol,0.0,0.0
+Isomitraphylline,-0.0,0.0
+Triptophenolide,-0.0,0.0
+Cer(d18:0/14:0),0.0,0.0
+Formylfusarochromanone,-0.0,0.0
+Aminoglutethimide,0.0,0.0
+Spiroxamine,0.0,0.0
+norpropoxyphene,0.0,0.0
+Nefazodone,-0.0,0.0
+Finasteride,-0.0,0.0
+"Ethanone, 1-[5-ethyl-2-hydroxy-4-[[6-methyl-6-(2H-tetrazol-5-yl)heptyl]oxy]phenyl]-",-0.0,0.0
+21-Desacetyldeflazacort,-0.0,0.0
+Dextrorphan O-.beta.-D-glucuronide,0.0,0.0
+Nervobscurine,-0.0,0.0
+Fragransin_B2,0.0,0.0
+FA 9:1+1O,0.0,0.0
+S-Acetyldihydrolipoamide-E,-0.0,0.0
+Angelicolide,-0.0,0.0
+S-Allyl-L-Cysteine,0.0,0.0
+2-Amino-3-(1H-pyrazol-1-yl)propanoic acid,-0.0,0.0
+Hecogenin,0.0,0.0
+"4,4-Dimethyl-L-glutamic acid",0.0,0.0
+(+)-Corydaline,-0.0,0.0
+Eglumegad,0.0,0.0
+Penbutolol,0.0,0.0
+2-Hydroxy-6-methyl-4-(trifluoromethyl)nicotinonitrile,0.0,0.0
+"(2E,6E,10E,14S)-14-((2-O-.beta.-D-Glucopyranosyl-.beta.-D-glucopyranosyl)oxy)-2,6,10,14-tetramethylhexadeca-2,6,10,15-tetraenoic acid",0.0,0.0
+Parvisoflavone B,-0.0,0.0
+7-Methylrosmanol,-0.0,0.0
+"3-Hydroxy-9,10-Dimethoxypterocarpan",-0.0,0.0
+"(2-Amino-4,5,6,7-tetrahydro-1-benzothien-3-yl)(4-methylphenyl)methanone",0.0,0.0
+6-Hydrazino-3-pyridazinecarboxamide,-0.0,0.0
+"3,12-Dihydroxy-13-methoxypodocarpa-8,11,13-trien-7-one",-0.0,0.0
+"(2,5-Dioxotetrahydrofuran-3-yl)acetic acid",0.0,0.0
+Isopropalin,-0.0,0.0
+Tetrabenazine,0.0,0.0
+2-(4-Methylpiperidin-1-yl)-5-(trifluoromethyl)aniline,0.0,0.0
+Lys-Phe,0.0,0.0
+Norharmane,0.0,0.0
+N5-(1-Iminoethyl)-L-ornithine,-0.0,0.0
+6-Acetylcodeine,-0.0,0.0
+"2,10,11-Trimethoxy-6-methyl-5,6,6a,7-tetrahydro-4H-dibenzo[de,g]quinolin-1-ol",-0.0,0.0
+2-Methylbutylamine,0.0,0.0
+5-Isopropyl-5-methylhydantoin,-0.0,0.0
+"4-tert-Butyl-N-(6-imidazol-1-ylimidazo[1,2-a]pyridin-2-yl)benzamide",0.0,0.0
+"Hexanoic acid, 5-(acetylamino)-4-oxo-",0.0,0.0
+Irinotecan,0.0,0.0
+Isoproturon,0.0,0.0
+Mupirocin,-0.0,0.0
+O-Desarylranolazine,0.0,0.0
+Aspulvinone E,0.0,0.0
+"2,6-Diamino-4-hydroxy-5-N-methylformamidopyrimidine",0.0,0.0
+Isovalerylsarcosine,0.0,0.0
+Vanillic acid diethylamide,0.0,0.0
+"1,3-Benzodioxole-5-propanamine, N,.beta.-dimethyl-",-0.0,0.0
+Isoleucylleucine,-0.0,0.0
+Methyl 1-piperazinecarboxylate,0.0,0.0
+"Methanone, [1-(5-fluoropentyl)-6-nitro-1H-indol-3-yl]-1-naphthalenyl-",-0.0,0.0
+"4,4-Dimethyl-4,5-dihydro-1,3-oxazol-2-amine",-0.0,0.0
+Gly-Arg,-0.0,0.0
+Roxane,-0.0,0.0
+Allose,0.0,0.0
+6-[2-tert-Butyl-5-(6-methyl-2-pyridyl)-1H-imidazol-4-yl]quinoxaline,0.0,0.0
+3-Amino-4-methylbenzenesulfonic acid,-0.0,0.0
+"1-(beta-D-Ribofuranosyl)-1,4-dihydronicotinamide",0.0,0.0
+Phe-His,-0.0,0.0
+(Isobutylamino)(oxo)acetic acid,-0.0,0.0
+"1H-Indole-3-carboxamide, 1-(5-fluoropentyl)-N-1-naphthalenyl-",0.0,0.0
+Ser-Val,-0.0,0.0
+"1-(2,4-Dimethylphenyl)-4-(3-methyl-1-piperidinyl)-1H-pyrazolo[3,4-d]pyrimidine",-0.0,0.0
+N-Acetylglucosaminylasparagine,-0.0,0.0
+Lys-Thr,-0.0,0.0
+Arg-Gln,-0.0,0.0
+Pesticide4_Piperonyl butoxide_C19H30O5_Butacide,0.0,0.0
+"1-Piperidinepropanenitrile, 4-methyl-3-(methyl-7H-pyrrolo[2,3-d]pyrimidin-4-ylamino)-.beta.-oxo-, (3R,4R)-",-0.0,0.0
+"4-Hydroxy-3',6-dimethoxy-5'-methylspiro[1-benzofuran-2,4'-cyclohex-2-ene]-1',3-dione",-0.0,0.0
+"(6S,6'S)-epsilon,epsilon-Carotene-3,3'-dione",0.0,0.0
+Methocarbamol,-0.0,0.0
+9-Hydroxyrisperidone,-0.0,0.0
+Bufexamac,-0.0,0.0
+"1H-Imidazole-4,5-dicarbohydrazide",-0.0,0.0
+2-(4-Nitrophenyl)butyric acid,-0.0,0.0
+6-Maleimidocaproic acid,0.0,0.0
+"2-Amino-3-{1H-pyrrolo[3,2-b]pyridin-3-yl}propanoic acid",-0.0,0.0
+"4-Oxo-1,4-dihydro-3-quinolinecarboxylic acid",0.0,0.0
+"6-Hydroxy-6-(3-hydroxy-2,3-dimethylcyclopentyl)-2-methylheptanoic acid",0.0,0.0
+Amino(4-methoxyphenyl)acetic acid,0.0,0.0
+"4,5-Dimethoxy-2,3-dihydro-1H-isoindole-1,3-dione",-0.0,0.0
+"(S)-3,4-Dihydroxybutyric acid (lithium hydrate)",-0.0,0.0
+"3',4',5,7-Tetrahydroxy-3-methoxyflavone",-0.0,0.0
+Astaxanthin,-0.0,0.0
+Linoleoylcarnitine,-0.0,0.0
+"(1S,2S,3R,4R)-4-Amino-1,2,3-cyclopentanetriol",-0.0,0.0
+Hydroxyprolyl-Leucine,-0.0,0.0
+L-Tyrosine_methyl_ester,0.0,0.0
+Crotonic acid,0.0,0.0
+Xanthinol,-0.0,0.0
+"2-Amino-2-methyl-1,3-propanediol",0.0,0.0
+1-(4-Aminobutyl)urea,0.0,0.0
+20-carboxy-LTB4,-0.0,0.0
+trans-Epoxysuccinyl-L-leucylamido(4-guanidino)butane,0.0,0.0
+Bethanechol,0.0,0.0
+Palmitoleylcarnitine,0.0,0.0
+Olivetol,-0.0,0.0
+Oxohexadecadienoylcarnitine,0.0,0.0
+Oxotetradecanoylcarnitine,0.0,0.0
+Meglumine,0.0,0.0
+Bicifadine,0.0,0.0
+"N1-(2-Nitrophenyl)-1,2-ethanediamine",0.0,0.0
+Hispidulin,0.0,0.0
+Androsterone sulfate,-0.0,0.0
+"(3beta,22R,23R,24S)-3,22,23-Trihydroxystigmastan-6-one",-0.0,0.0
+Mescaline,-0.0,0.0
+4'-Methoxypelargonidin cation,0.0,0.0
+"1,7-Dioxa-4,10-diazacyclododecane",-0.0,0.0
+"N-[(2,6-Dimethoxyphenyl)methyl]acetamide",0.0,0.0
+4-Oxododecanedioic acid,0.0,0.0
+"6-Amino-1-(2-methoxyethyl)-2,4(1H,3H)-pyrimidinedione",-0.0,0.0
+Cyclohexaneacetic_acid,-0.0,0.0
+3-(1H-Benzimidazol-2-yl)-4-chloroaniline,0.0,0.0
+5-Hydroxy-2-(hydroxymethyl)pyridine,-0.0,0.0
+Solanine D,-0.0,0.0
+2-Amino-3-(dimethylamino)propionic acid,-0.0,0.0
+Acamprosate,-0.0,0.0
+1-(2-Hydroxyethyl)pyrazole,-0.0,0.0
+"2,4-Dimethylphenol",-0.0,0.0
+Isoleucyl-Hydroxyproline,0.0,0.0
+3-(3-Hydroxyphenyl)propionic acid sulfate,-0.0,0.0
+Met-Phe,0.0,0.0
+Tuberonic acid,0.0,0.0
+Rotundine,0.0,0.0
+4-Hydroxyvalsartan,-0.0,0.0
+Peiminine,0.0,0.0
+Leu-Gly-Leu,-0.0,0.0
+2-((2R)-2-Hydroxycyclohexyl)acetic acid,-0.0,0.0
+"N-Butyl-1-phenyl-1H-pyrazolo[3,4-d]pyrimidin-4-amine",0.0,0.0
+Ile-Pro,-0.0,0.0
+3-Acetyl-7-diethylaminocoumarin,0.0,0.0
+"O-Methyl-N,N'-diisopropylisourea",0.0,0.0
+2-[4-[(2-Phenyl-1H-imidazol-5-yl)methyl]piperazino]pyrimidine,0.0,0.0
+D8'-Merulinic_acid_C,0.0,0.0
+3-(Trifluoromethyl)phenylalanine,-0.0,0.0
+Formyl-5-hydroxykynurenamine,-0.0,0.0
+Aspartyl-Valine,0.0,0.0
+"2,2-Dimethyl-N-[3-(trifluoromethyl)phenyl]propanamide",-0.0,0.0
+"1H-Benzimidazole, 2-[[4-(5-ethyl-4-pyrimidinyl)-1-piperazinyl]methyl]-6-(trifluoromethyl)-",-0.0,0.0
+N-Acryloyl-DL-aspartic acid,-0.0,0.0
+Phenylalanyl-Glycine,0.0,0.0
+Capsaicin,0.0,0.0
+LPE(O-18:2),-0.0,0.0
+4-Phenyl-3-(trifluoromethyl)-1H-pyrazole,-0.0,0.0
+"2-Amino-6,7-diphenyl-4(3H)-pteridinone",0.0,0.0
+Altenuene,0.0,0.0
+N-Benzoyl-DL-leucine,0.0,0.0
+"6-Amino-4-(4-methoxyphenyl)-3-methyl-1-phenyl-1H-pyrazolo[3,4-b]pyridine-5-carbonitrile",-0.0,0.0
+"3-(1-Methyl-4-morpholinopyrazolo[3,4-d]pyrimidin-6-yl)phenol",-0.0,0.0
+2-Imino-1-imidazolidineacetic acid,0.0,0.0
+Tetradecanedioic acid,0.0,0.0
+2-Deoxysepiapterin,0.0,0.0
+Homononactinic acid,0.0,0.0
+Carbendazim,-0.0,0.0
+(Methylsulfanyl)heptyl glucosinolate,-0.0,0.0
+Thiouric acid,-0.0,0.0
+"N-(2-Phenylethyl)-1H-pyrazolo[3,4-d]pyrimidin-4-amine",0.0,0.0
+"4(3H)-Quinazolinone, 2-[(6-amino-9H-purin-9-yl)methyl]-5-methyl-3-(2-methylphenyl)-",-0.0,0.0
+2-Acetylamino-3-mercapto-3-methylbutyric acid,-0.0,0.0
+"3-Methyl-3H-imidazo[4,5-f]quinoxalin-2-amine",-0.0,0.0
+"3-(3-Chlorophenyl)-2,4-imidazolidinedione",-0.0,0.0
+6'-Sialyllactose,0.0,0.0
+"2-Isobutyl-1,3-dioxo-2,3-dihydro-1H-Isoindole-5-carboxylic acid",0.0,0.0
+"2-[(2R,4aS,8S,8aS)-8-[2-[(4aS,7R,8aR)-7-(1-Carboxyethenyl)-1-hydroxy-4a-methyl-2-oxo-6,7,8,8a-tetrahydro-5H-naphthalen-1-yl]ethyl]-4a-methyl-7-oxo-1,2,3,4,8,8a-hexahydronaphthalen-2-yl]prop-2-enoic acid",-0.0,0.0
+Phenethylamine_glucuronide,0.0,0.0
+1-Stearoyl-2-linoleoyl-sn-glycero-3-phosphocholine,0.0,0.0
+Harmaline,-0.0,0.0
+2-Amino-3-[5-tert-butyl-3-(phosphonomethoxy)isoxazol-4-yl]propionic acid,-0.0,0.0
+"7H-Pyrrolo[3,2-f]quinazoline-1,3-diamine",-0.0,0.0
+5-Amino-1-(2-pyridinyl)-1H-pyrazole-4-carbonitrile,0.0,0.0
+Urobilin,-0.0,0.0
+"2,2'-(4-(2-Hydroxyethylamino)-3-nitrophenylazanediyl)diethanol",-0.0,0.0
+Cycloolivil,-0.0,0.0
+N-(3-Methoxyphenyl)-7H-purin-6-amine,0.0,0.0
+Famciclovir,0.0,0.0
+"Isoquinoline, 5-[[(2S)-hexahydro-2-methyl-1H-1,4-diazepin-1-yl]sulfonyl]-4-methyl-",0.0,0.0
+Gln-Lys,-0.0,0.0
+Octadienedioylcarnitine,0.0,0.0
+"[2-(Trifluoromethyl)-1,3-thiazol-4-yl]methanol",0.0,0.0
+N2-Acetyl-N-(2-(4-hydroxyphenyl)ethyl)-.alpha.-glutamine,-0.0,0.0
+"1-Hexanone, 1-oxazolo[4,5-b]pyridin-2-yl-6-phenyl-",-0.0,0.0
+"6-Benzyl-3-butan-2-yl-9-(7-hydroxy-6-oxooctyl)-1,4,7,10-tetrazabicyclo[10.4.0]hexadecane-2,5,8,11-tetrone",0.0,0.0
+"HDMBOA (not validated, isomer of 871)",-0.0,0.0
+Hydroxyprolyl-Proline,-0.0,0.0
+Lys-Pro,-0.0,0.0
+Pergolide sulfone,-0.0,0.0
+"2,2',2'',2'''-(1,2-Phenylenebis(azanetriyl))tetraethanol",0.0,0.0
+Thr-Pro,-0.0,0.0
+"(2,5-Dioxo-1-pyrrolidinyl)acetic acid",-0.0,0.0
+"10-Hydroxy-2,4b,8-trimethyl-2-(2-((3,4,5-trihydroxy-6-(hydroxymethyl)tetrahydro-2H-pyran-2-yl)oxy)ethyl)dodecahydro-4a,10a-epoxyphenanthrene-8-carboxylic acid",0.0,0.0
+Met-Val,-0.0,0.0
+.alpha.-Paxitriol,0.0,0.0
+N-Demethylsambutoxin,0.0,0.0
+Ruxolitinib,0.0,0.0
+Tryptophyl-Proline,0.0,0.0
+Thymol blue,-0.0,0.0
+Heptane-1-thiol,-0.0,0.0
+Gln-Ile,0.0,0.0
+Aurantiamine,0.0,0.0
+2-(4-Amino-1-piperidinyl)-N-methylacetamide,0.0,0.0
+4-Methoxy-3-nitrobenzenemethanol,0.0,0.0
+8-Shogaol,-0.0,0.0
+Arg-Pro,0.0,0.0
+"Methanone, [1-(6-fluorohexyl)-1H-indol-3-yl]-1-naphthalenyl-",-0.0,0.0
+"Methanone, (4-ethyl-1-naphthalenyl)[1-(5-fluoropentyl)-1H-indol-3-yl]-",0.0,0.0
+5-Cyclopropyl-2H-tetraazole,0.0,0.0
+2-Ethylbutan-1-amine,0.0,0.0
+"9Z,11E,13E-Octadecatrienoic acid methyl ester",-0.0,0.0
+"3-Hydroxy-b,e-caroten-3'-one",-0.0,0.0
+N-(3-Methylbutanoyl)valine,0.0,0.0
+Piperlonguminine,0.0,0.0
+DL-Mevalonic acid lactone,0.0,0.0
+Bayin,-0.0,0.0
+4-(Methylnitrosamino)-1-(3-pyridyl-N-oxide)-1-butanol,-0.0,0.0
+Oxopentylcarnitine,0.0,0.0
+Nonenoylcarnitine,0.0,0.0
+Tetraglyme,-0.0,0.0
+9(10)-Epoxy-12Z-octadecenoic acid,0.0,0.0
+"2-Naphthalenecarboxamide, N-[2-(4-oxo-1-phenyl-1,3,8-triazaspiro[4.5]dec-8-yl)ethyl]-",-0.0,0.0
+ellipticine,0.0,0.0
+2-Amino-6-ethyl-4(3H)-pyrimidinone,-0.0,0.0
+[(1S)-1-Benzyl-2-[[5-(3-methyl-2H-indazol-5-yl)-3-pyridyl]oxy]ethyl]amine,0.0,0.0
+1-Isothiocyanato-8-(methylthio)octane,-0.0,0.0
+Serinyl-Tyrosine,-0.0,0.0
+Bestatin,-0.0,0.0
+"(.alpha.S,1S,2R)-.alpha.-Amino-2-carboxycyclopropaneacetic acid",0.0,0.0
+"N-(2,5-Dimethylphenyl)-1-methyl-1H-pyrazolo[3,4-d]pyrimidin-4-amine",-0.0,0.0
+Pelanserin,-0.0,0.0
+Olomoucine,-0.0,0.0
+Ethephon,0.0,0.0
+Dimethocaine,-0.0,0.0
+Lys-Leu,0.0,0.0
+3-Amino-3-(4-hydroxyphenyl)propanoic acid,0.0,0.0
+9-Methoxycanthin-6-one,0.0,0.0
+"3beta,6beta-Dihydroxynortropane",0.0,0.0
+M479T39,-0.0,0.0

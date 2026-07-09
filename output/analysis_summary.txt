@@ -1,0 +1,35 @@
+Final Analysis Report
+==================================================
+
+A group: 25 samples
+B group: 25 samples
+Models: LASSO, ElasticNet, Logistic_ElasticNet
+
+Validation Results:
+--------------------------------------------------
+
+LASSO:
+  Accuracy: 0.6000
+  Precision: 0.5714
+  Recall: 0.8000
+  F1: 0.6667
+  ROC AUC: 0.7600
+
+ElasticNet:
+  Accuracy: 0.6000
+  Precision: 0.5714
+  Recall: 0.8000
+  F1: 0.6667
+  ROC AUC: 0.8000
+
+Logistic_ElasticNet:
+  Accuracy: 0.9000
+  Precision: 0.8333
+  Recall: 1.0000
+  F1: 0.9091
+  ROC AUC: 1.0000
+
+LASSO selected: 298 metabolites
+ElasticNet selected: 386 metabolites
+Logistic_ElasticNet selected: 29 metabolites
+Common across all: 7 metabolites
