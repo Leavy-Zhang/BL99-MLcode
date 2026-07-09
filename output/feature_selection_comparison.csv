@@ -1,0 +1,498 @@
+metabolite,LASSO,ElasticNet,Logistic_ElasticNet,selected_by
+H-Val-Ala-OH,True,True,True,3
+8-Hydroxycarbostyril,True,True,True,3
+Uridine,True,True,True,3
+"1,5-Isoquinolinediol",True,True,True,3
+Glycoursodeoxycholic acid,True,True,True,3
+5-Phenylisoxazol-3-ol,True,True,True,3
+Inosine,True,True,True,3
+Succinic_anhydride,True,True,False,2
+Lauramine oxide,True,True,False,2
+Malic acid,True,True,False,2
+Lithocholic acid 3-sulfate,True,True,False,2
+"5,6-Dihydrouridine",True,True,False,2
+"4-Amino-1-methyl-5H-chromeno[3,4-c]pyridin-5-one",True,True,False,2
+His-His,True,True,False,2
+"1.alpha.-Methyl-5.alpha.-androstan-3.alpha.,17.beta.-diol glucuronide",True,True,False,2
+Neferine,True,True,False,2
+(3-Carboxypropyl)trimethylammonium cation,True,True,False,2
+Rosuvastatin,True,True,False,2
+Deoxyadenosine,True,True,False,2
+Tauro-gamma-muricholic acid,False,True,True,2
+Adipic acid,True,True,False,2
+Pentaethylene glycol,True,True,False,2
+Lys-Val,True,True,False,2
+Glycolate,True,True,False,2
+cis-7-Hexadecenoic acid,True,True,False,2
+Glycolithocholic acid 3-sulfate,True,True,False,2
+alpha-Ketoglutaric acid (alpha-KG),True,True,False,2
+Glycylleucine,True,True,False,2
+Euscaphic acid,True,True,False,2
+Hygric acid,True,True,False,2
+Tauroursodeoxycholic acid,False,True,True,2
+(5-Chloro-1H-benzimidazol-2-yl)methanol,False,True,True,2
+Duroquinone,True,True,False,2
+Oleic acid,True,True,False,2
+Ile-Leu,True,True,False,2
+Leucine,True,True,False,2
+Lysine,True,True,False,2
+Glu-Lys,True,True,False,2
+Steviolbioside,True,True,False,2
+Hypaphorine,True,True,False,2
+Anserine,True,True,False,2
+N-Acetylhistamine,True,True,False,2
+2-oxindole-3-acetate,True,True,False,2
+"3,3-Dimethylglutaric acid",True,True,False,2
+Isoleucine,True,True,False,2
+5-Hydroxyhexanoic acid,True,True,False,2
+3-Oxocholic acid,True,True,False,2
+Leu-Tyr,True,True,False,2
+"5-Methyl-2-oxo-1,3-oxazolidine-4-carboxylic acid",True,True,False,2
+5-Methyl DL-glutamate,True,True,False,2
+Lactate,True,True,False,2
+Cytidine,True,True,False,2
+"Tris(2,4-di-tert-butylphenyl)phosphate",True,True,False,2
+Dimetridazole,True,True,False,2
+Guanine,True,True,False,2
+Hesperetin 7-neohesperidoside,True,True,False,2
+Glutamine,True,True,False,2
+Pyridoxamine,True,True,False,2
+N-Acetylvaline,True,True,False,2
+(-)-Catechin,True,True,False,2
+2'-Deoxyuridine,True,True,False,2
+Adenine,True,True,False,2
+Xylitol,True,True,False,2
+Allolithocholic acid,True,True,False,2
+Trigonelline,True,True,False,2
+Daltogen,True,True,False,2
+"4-Hydroxy-2',4',6'-trimethoxychalcone",True,True,False,2
+Car(18:1),True,True,False,2
+Allocholic acid,True,True,False,2
+Maltotetraose,True,True,False,2
+N-Acetyl-D-galactosamine 4-sulfate,True,True,False,2
+Ganoderic acid B,True,True,False,2
+Ursocholic acid,True,True,False,2
+Indole-3-methyl acetate,True,True,False,2
+Sphingosine,True,True,False,2
+Maltose,True,True,False,2
+"2-[(1-Methyl-1H-pyrazolo[3,4-d]pyrimidin-4-yl)amino]ethanol",True,True,False,2
+LPC(16:0),True,True,False,2
+Platycodigenin,True,True,False,2
+N-Methylnicotinamide,True,True,False,2
+Hemiphloin,True,True,False,2
+2-Methylglutaric acid,True,True,False,2
+3alpha-Hydroxy-6-oxo-5alpha-cholan-24-oic acid,True,True,False,2
+Adenosine,True,True,False,2
+Tazarotene,True,True,False,2
+Pseudouridine,True,True,False,2
+"L-1,2,3,4-Tetrahydro-beta-carboline-3-carboxylic_acid",True,False,True,2
+Methyl beta-D-Galactopyranoside,True,True,False,2
+Palmitic acid,True,True,False,2
+Arabitol,True,True,False,2
+Prostaglandin I2 (PGI2),True,True,False,2
+Pyridoxine,True,True,False,2
+3-Methylhistidine,True,True,False,2
+Tauro-beta-muricholic acid,False,True,True,2
+Losartan Carboxylic Acid,True,True,False,2
+N-Acetylglucosamine,True,True,False,2
+Valsartan,True,True,False,2
+3-Methyl-1H-pyrazole-4-carbaldehyde,True,True,False,2
+4-Phenylbutanoic acid,True,True,False,2
+LPC(18:0/0:0),True,True,False,2
+"2-(4-Chlorophenyl)-1,3-benzoxazol-5-amine",True,True,False,2
+Deoxycholic acid,True,True,False,2
+Leu-Val,True,True,False,2
+M372T179,True,True,False,2
+N-Acetylphenylalanine,True,True,False,2
+Glutaric acid,True,True,False,2
+Val-Val,True,True,False,2
+Deoxyinosine,True,True,False,2
+Phe-Leu,True,True,False,2
+3-Amino-4-methylpentanoic acid,True,True,False,2
+1-Methylnicotinamide,True,True,False,2
+"3,4-Diaminoanisole",True,True,False,2
+Tryptophan,True,True,False,2
+7-Keto-8-aminopelargonic acid,True,True,False,2
+Thymine,True,True,False,2
+Val-Ile,True,True,False,2
+N-Acetylmuramic acid,True,True,False,2
+5'-Deoxyadenosine,True,True,False,2
+5-ketocaproate,True,True,False,2
+Puerarin,True,True,False,2
+Hypoxanthine,True,True,False,2
+Dodecanedioic acid,True,True,False,2
+PC(16:0/18:1(9Z)),True,True,False,2
+2-Hydroxystearic acid,True,True,False,2
+3-Methyladipic acid,True,True,False,2
+Dehydrolithocholic acid,True,True,False,2
+AG 1295,True,True,False,2
+NAE(18:2),True,True,False,2
+Metformin,True,True,False,2
+"N1,N8-Diacetylspermidine",True,True,False,2
+3-Methylthiopropionic acid,True,True,False,2
+Glyco-gamma-muricholic acid,True,True,False,2
+3-Phenylpropanoic acid,True,True,False,2
+PC(15:0/20:1(11Z)),True,False,True,2
+Pantothenic acid,True,True,False,2
+Levulinic acid,True,True,False,2
+Nonaethylene glycol,True,True,False,2
+5-Methylcytosine,True,True,False,2
+LacCer(d18:1/16:0),True,True,False,2
+Guvacoline (hydrochloride),True,True,False,2
+Taurohyodeoxycholic acid,False,True,True,2
+"9H-Carbazole, 2-[(2E)-2-(1-azabicyclo[2.2.2]oct-3-ylidene)-2-fluoroethoxy]-",True,True,False,2
+2-Methylnicotinamide,True,True,False,2
+beta-Alanine,True,True,False,2
+Glutamate,True,True,False,2
+Taurochenodeoxycholic acid,True,False,True,2
+7-Ketolithocholic acid,True,True,False,2
+"7,8-Dihydroxyflavone",True,True,False,2
+Stachydrine,True,True,False,2
+Galactose,True,True,False,2
+"1-(Hydroxymethyl)-5,5-dimethylhydantoin",True,True,False,2
+Azelaic acid,True,True,False,2
+Amlodipine,True,True,False,2
+3-Sulfopropanoic acid,True,True,False,2
+DHA ethyl ester,True,True,False,2
+Glycocholic acid,True,True,False,2
+5-Heptyltetrahydro-2-oxo-3-furancarboxylic_acid,True,True,False,2
+Dronedarone,True,True,False,2
+Octadecanedioic acid,True,True,False,2
+N-Methyl-1-deoxynojirimycin,True,True,False,2
+Solanidine,True,True,False,2
+"6-(3,4-Dimethoxyphenyl)-1,3,5-triazine-2,4-diamine",True,True,False,2
+3-Aminobutanoic acid,True,True,False,2
+2-Aminopurine,True,True,False,2
+5-(1H-Benzimidazol-2-ylsulfanyl)furan--2-carbaldehyde,True,True,False,2
+12-Hydroxystearic acid,True,True,False,2
+trans-Vaccenic acid,True,True,False,2
+Cholenate,True,True,False,2
+Cyclamic acid,True,True,False,2
+2-Aminoisobutyric acid,True,True,False,2
+3-Pyridylacetic acid,True,True,False,2
+Polygalacic acid,True,True,False,2
+4-Aminobutyric acid (GABA),True,True,False,2
+18-alpha-Glycyrrhetinic acid,True,True,False,2
+Ornithine,True,True,False,2
+Carnitine,True,True,False,2
+3alpha-Hydroxy-12-oxo-5beta-cholan-24-oic acid,True,True,False,2
+Tomatidine,True,True,False,2
+4-Oxohexanoic acid,True,True,False,2
+Evocarpine,True,True,False,2
+N-Acetyl-arginine,True,True,False,2
+2-Hydroxyglutaric acid,True,True,False,2
+Ile-Glu,True,True,False,2
+Threonine,True,True,False,2
+Clopidogrel carboxylic acid,True,True,False,2
+LPC(18:2/0:0),True,True,False,2
+"3,6-Dioxo-5alpha-cholan-24-oic acid",True,True,False,2
+Taurine,True,True,False,2
+Leu-Ile,True,True,False,2
+Creatine,True,True,False,2
+"5,2'-O-Dimethylcytidine",True,True,False,2
+3-Amino-4-hydroxybenzoic acid,True,True,False,2
+Ganoderic acid A,True,True,False,2
+Cholic acid,True,True,False,2
+13(S)-HODE,True,True,False,2
+4-Methyl-5-thiazoleethanol,True,True,False,2
+"N6,N6,N6-Trimethyllysine",True,True,False,2
+Caproic acid,True,True,False,2
+"3,3-Dimethylpyrrolidin-2-one",True,True,False,2
+Pinolenic acid,True,True,False,2
+Norleucine,True,True,False,2
+3-(3-Hydroxyphenyl)propanoic acid,True,True,False,2
+Saccharin,True,True,False,2
+Glycohyodeoxycholic acid,True,True,False,2
+Prolylhydroxyproline,True,True,False,2
+Pyroglutamic acid,True,True,False,2
+Dauricine,True,True,False,2
+Tridecanoylcarnitine,True,True,False,2
+2-Piperidone,True,True,False,2
+Idoxanthin,False,True,False,1
+Oxopentylcarnitine,True,False,False,1
+4-(dimethylamino)butanoate,True,False,False,1
+Hydroheptelidic acid,True,False,False,1
+"2,3-Dinor-",False,True,False,1
+2-Ketocaproic acid,False,True,False,1
+Sucrose,True,False,False,1
+9-Hydroxyrisperidone,True,False,False,1
+"2-Naphthalenecarboxamide, N-[2-(4-oxo-1-phenyl-1,3,8-triazaspiro[4.5]dec-8-yl)ethyl]-",True,False,False,1
+Tetraethylene glycol,False,True,False,1
+Flavin adenine dinucleotide (FAD),False,True,False,1
+(2R)-6-Oxo-2-piperidinecarboxylic acid,True,False,False,1
+M124T211,False,True,False,1
+Isocaproic acid,False,True,False,1
+Hydroxyacetone,False,True,False,1
+1-[4-(2-Methoxyphenyl)-1-piperazinyl]-3-(1-naphthyloxy)-2-propanol,False,True,False,1
+"LysoPC(18:3(6Z,9Z,12Z))",True,False,False,1
+2-Methyl-5-HT,False,True,False,1
+Norepinephrine,False,True,False,1
+N-Tigloylglycine,False,True,False,1
+2-Hydroxyethanesulfonic acid,False,True,False,1
+4-Iodo-1H-imidazole,False,True,False,1
+Hyodeoxycholic acid,True,False,False,1
+Alisol C 23-acetate,False,True,False,1
+"3-[(1E,3E)-Hepta-1,3-dienyl]pentanedioic acid",False,False,True,1
+Nicotinamide adenine dinucleotide (NAD),False,True,False,1
+"1-(1-Hydroxynaphthalen-2-yl)-3-phenylpropane-1,3-dione",False,True,False,1
+2-(2-Methyl-1H-imidazol-1-yl)-5-(trifluoromethyl)phenylamine,False,True,False,1
+Tryptamine,False,True,False,1
+2-Hydroxypyridine,False,True,False,1
+2-Hydroxybutyric acid,True,False,False,1
+3-Hydroxypropionic acid (beta-lactic acid),False,True,False,1
+"1-(2,5-Dimethylphenoxy)-3-(4-morpholinyl)-2-propanol",False,True,False,1
+Dimethylmalonic acid,False,True,False,1
+Picolinamide,True,False,False,1
+L-Homophenylalanine,False,True,False,1
+"4,4-Dimethyl-L-glutamic acid",False,False,True,1
+Biotripyrrin-b,True,False,False,1
+7-Ketodeoxycholic acid,True,False,False,1
+Hydroxyprolyl-Proline,True,False,False,1
+Cordycepin,False,True,False,1
+(R)-Aminocarnitine,True,False,False,1
+Norbuprenorphine glucuronide,False,True,False,1
+Fesoterodine,False,False,True,1
+"2-(3-Carboxy-4-chlorophenyl)-1,3-dioxo-2,3-dihydro-1H-isoindole-5-carboxylic acid",True,False,False,1
+Isovaleric acid,False,True,False,1
+"(1R)-4-(3-Hydroxybutyl)-3,5,5-trimethylcyclohex-3-en-1-yl 6-O-.beta.-D-glucopyranosyl-.beta.-D-glucopyranoside",False,False,True,1
+Tolazoline (hydrochloride),False,True,False,1
+Pro-Phe,False,True,False,1
+Ribitol,False,True,False,1
+L-âLeucyl-âL-âalanine,True,False,False,1
+Acetylproline,False,True,False,1
+Tramiprosate,True,False,False,1
+2-[(2-Furylmethyl)amino]-2-methyl-1-propanol,False,True,False,1
+Aspulvinone E,True,False,False,1
+Betaine,False,True,False,1
+Disperse Red 17,True,False,False,1
+2-Aminonicotinic acid,True,False,False,1
+Atenolol,False,True,False,1
+"1H-Indole-3-carboxamide, 1-pentyl-N-phenyl-",True,False,False,1
+Methylimidazoleacetic acid,False,True,False,1
+Harman,False,True,False,1
+2'-Hydroxy-4'-methylacetophenone,True,False,False,1
+PC(P-16:0/0:0),False,True,False,1
+2-Hydroxy-3-methylbutyric acid,False,True,False,1
+6-Deoxyfagomine,False,True,False,1
+N-Acetylglycylglycine,True,False,False,1
+Janerin,True,False,False,1
+"3,5-Dimethoxycinnamic acid",False,True,False,1
+Solasodine,True,False,False,1
+Catechin,False,True,False,1
+Mefenamic acid,False,True,False,1
+Isonicotinamide,False,True,False,1
+PC(18:1(9Z)/18:1(9Z)),True,False,False,1
+Choline,True,False,False,1
+5-Acetylamino-6-amino-3-methyluracil (AAMU),False,True,False,1
+Prolylalanine,False,True,False,1
+2-Methylbutyrylglycine,False,True,False,1
+1-Methylhistamine,True,False,False,1
+4-[3-(4-Butoxyphenoxy)propyl]morpholine,False,True,False,1
+N-Acetylneuraminic acid,False,True,False,1
+Sorbitan_laurate,True,False,False,1
+3-Methoxyphenylacetic acid,True,False,False,1
+Ketoleucine,False,True,False,1
+Phenylalanine,False,True,False,1
+Threoninyl-Proline,False,True,False,1
+Glycodeoxycholic acid,False,False,True,1
+N-(3-Piperidinyl)propanamide,True,False,False,1
+Phe-Thr,False,True,False,1
+5-Hydroxyindole-3-acetic acid,False,True,False,1
+Pimelic acid,True,False,False,1
+Citrulline,False,True,False,1
+alpha-Ketoisovaleric acid,False,True,False,1
+"4-Piperidinamine, 1-(9H-purin-6-yl)-",False,False,True,1
+Nefopam (hydrochloride),True,False,False,1
+4-Butyloxazole,True,False,False,1
+Cyclo(glycylprolyl),False,True,False,1
+Nicotinate_D-ribonucleoside,False,True,False,1
+Synephrine,False,True,False,1
+"5Z,8Z,11Z-Eicosatrienoic acid",True,False,False,1
+2-Aminobutyric acid,False,True,False,1
+Palmitoylcarnitine (Car(16:0)),False,True,False,1
+Perchloroterephthalic acid,False,True,False,1
+Setariol,False,True,False,1
+Alanyl-Proline,False,True,False,1
+M385T159,False,True,False,1
+Palmatine cation,False,True,False,1
+"2,4,6-Trimethylpyridine",False,True,False,1
+Ursodeoxycholic acid,False,True,False,1
+Ethyl 3-hydroxybenzoate,False,True,False,1
+Arachidonic acid (AA),False,True,False,1
+Medicagenic acid,False,True,False,1
+Formylmethionine,False,True,False,1
+5-Nitroquinolin-8-ol,True,False,False,1
+Tyramine,False,True,False,1
+Methocarbamol,True,False,False,1
+2-Methoxy-3-methyl-9H-carbazole,True,False,False,1
+Triamterene,False,True,False,1
+Suberic acid,True,False,False,1
+Taurocholic acid,False,False,True,1
+N-Acetylmethionine,False,True,False,1
+Substance P (9-11),False,True,False,1
+Lys-Thr,True,False,False,1
+Plantaricin_BN,False,True,False,1
+7.alpha.-Hydroxy-4-cholesten-3-one,False,True,False,1
+Valeric acid,False,True,False,1
+5-[(Benzylsulfanyl)methyl]-2-furoic acid,False,False,True,1
+"Diethyl 2,4-dimethylpyrrole-3,5-dicarboxylate",True,False,False,1
+Oxododecanoylcarnitine,False,True,False,1
+Urocanic acid,False,True,False,1
+N6-Acetyllysine,False,True,False,1
+PC(18:1(6Z)/18:1(6Z)),True,False,False,1
+6-Hydroxynicotinic acid,True,False,False,1
+2-Butyl-3-methylpyrazine,True,False,False,1
+N-Acetylputrescine,True,False,False,1
+Rolofylline,False,True,False,1
+Peimine,False,True,False,1
+Cellobiose,False,True,False,1
+2-Hydroxyadenine,False,True,False,1
+N-(4-Methoxyphenyl)ethanethioamide,True,False,False,1
+3-Hydroxyacetaminophen,True,False,False,1
+N-Acetylglutamine,False,True,False,1
+Pergolide,False,True,False,1
+Isoverticine,False,True,False,1
+"4-(4'-Methyl-[2,2'-bipyridin]-4-yl)butanoic acid",True,False,False,1
+"(2E,6E,10E,14S)-14-((2-O-.beta.-D-Glucopyranosyl-.beta.-D-glucopyranosyl)oxy)-2,6,10,14-tetramethylhexadeca-2,6,10,15-tetraenoic acid",True,False,False,1
+beta-Muricholic acid,False,True,False,1
+"3',4',5,7-Tetrahydroxy-3-methoxyflavone",True,False,False,1
+Oxohexadecatrienoylcarnitine,False,True,False,1
+LPE(O-18:2),False,False,True,1
+Ligustilide,False,True,False,1
+2-Ethyl-2-hydroxybutyric acid,False,True,False,1
+3-Phenylbutyric acid,False,True,False,1
+Thr-Leu,False,True,False,1
+4-Chloro-6-(4-propylphenoxy)-2-pyrimidinylamine,True,False,False,1
+p-Toluquinone,False,True,False,1
+"3,19-Dihydroxyurs-12-ene-23,28-dioic acid",False,False,True,1
+LPC(13:0),False,True,False,1
+Melitracen (hydrochloride),False,True,False,1
+"1,1-Dimethyl-4-phenylpiperazin-1-ium cation",False,True,False,1
+Foeniculoside_V,False,True,False,1
+N2-Acetyllysine,False,True,False,1
+Trehalose,False,True,False,1
+"4(3H)-Quinazolinone, 2-[(6-amino-9H-purin-9-yl)methyl]-5-methyl-3-(2-methylphenyl)-",True,False,False,1
+N-Nitrosopyrrolidine,True,False,False,1
+Valine,False,True,False,1
+"3-[5-(4-Pyridinyl)-4H-1,2,4-triazol-3-yl]pyridine",False,True,False,1
+Stearic acid,False,True,False,1
+"6,7-Bis(3-hydroxyphenyl)pteridine-2,4-diamine",False,True,False,1
+Hydroxyisocaproic acid,False,True,False,1
+N-Methyl-N-[2-oxo-2-(1-pyrrolidinyl)ethyl]amine,True,False,False,1
+"Thieno[2,3-d]pyrimidine, 4-[4-(4,5-dihydro-5,5-dimethyl-2-thiazolyl)-1-piperazinyl]-6-propyl-",False,True,False,1
+"5-Bromo-4-(trifluoromethyl)-1,3-thiazol-2-ylamine",False,True,False,1
+"Arabinono-1,4-lactone",False,True,False,1
+Butanoic acid,False,True,False,1
+2-Hydroxyhexanoic acid,False,True,False,1
+"HDMBOA (not validated, isomer of 871)",True,False,False,1
+Terephthalic-Acid,False,True,False,1
+Caplamin,True,False,False,1
+SKF 38393 (hydrochloride),True,False,False,1
+"1,3-Dimethyl-6-(propylamino)-2,4(1H,3H)-pyrimidinedione",False,True,False,1
+DL-Mevalonic acid lactone,False,False,True,1
+3-Methyladenine,True,False,False,1
+alpha-Muricholic acid,False,True,False,1
+2-Methyl-3-[(tetrahydro-2-furanylcarbonyl)amino]benzoic acid,False,True,False,1
+norpropoxyphene,True,False,False,1
+7-Methylxanthine,False,True,False,1
+Maltotriose,False,True,False,1
+Bisindolylmaleimide VIII (acetate),False,True,False,1
+"23S,25-dihydroxyvitamin_D3",False,True,False,1
+"Benzamide, N-1H-indol-5-yl-",True,False,False,1
+Pyruvate,False,True,False,1
+Val-Met,False,True,False,1
+Myristic acid,False,True,False,1
+LPC(16:1),False,True,False,1
+Benzoic acid,False,True,False,1
+Pipemidic acid,False,True,False,1
+LPE(18:1(9Z)/0:0),False,True,False,1
+N-Acetylhistidine,False,True,False,1
+Maltobionate,False,True,False,1
+"5,6-Dihydroxyindole",False,True,False,1
+O-t-Butyl-L-threonine methyl ester,True,False,False,1
+N-Acetylalanine,False,True,False,1
+Sucralose (Xenobiotic),False,True,False,1
+"8-Cyclopentyl-1,3-dimethylxanthine",True,False,False,1
+2-Amino-4-(3-hydroxyphenyl)-7-nitro-4H-chromene-3-carbonitrile,True,False,False,1
+Iditol,True,False,False,1
+"1,3-Dipalmitoyl-sn-glycero-2-phosphoethanolamine",True,False,False,1
+Daminozide,True,False,False,1
+M653T157,True,False,False,1
+Demethylcitalopram,False,True,False,1
+"N-[2-(5,6-Dimethyl-1H-benzimidazol-2-yl)ethyl]-4-(4H-1,2,4-triazol-4-yl)benzamide",False,True,False,1
+7-Methylguanine,False,True,False,1
+Epicatechin,True,False,False,1
+6-Methylnicotinamide,False,True,False,1
+3-Hydroxybutyric acid,False,True,False,1
+2-Carbamoylpyridine-3-carboxylic acid,False,True,False,1
+N1-Methyl-4-pyridone-3-carboxamide,False,True,False,1
+"Methanone, [1-(5-fluoropentyl)-7-hydroxy-1H-indol-3-yl]-1-naphthalenyl-",False,True,False,1
+Riboflavin,True,False,False,1
+Vigabatrin,False,True,False,1
+"N,N-Diethyl-2-aminoethanol",False,True,False,1
+Colutehydroquinone,False,True,False,1
+Isovalerylsarcosine,True,False,False,1
+Myristoylcarnitine,False,True,False,1
+N-Methylcalystegine_C1,True,False,False,1
+Promethazine sulfoxide,False,True,False,1
+3-Methyl-2-oxovaleric acid,False,True,False,1
+Acetylleucine,False,True,False,1
+M642T185,True,False,False,1
+Terminolic acid,True,False,False,1
+"(12Z)-9,10,11-Trihydroxyoctadec-12-enoic acid",True,False,False,1
+3-Pyridol,False,True,False,1
+5-Methoxytryptamine,False,True,False,1
+5-Methylisoxazol-3-amine,False,True,False,1
+"TRH, free acid",True,False,False,1
+Tropinone,False,True,False,1
+LPE(14:0),False,True,False,1
+Car(18:0),False,True,False,1
+Phenylephrine,False,True,False,1
+1-[(5-Amino-5-carboxypentyl)amino]-1-deoxyfructose,False,True,False,1
+"L-Leucine, methyl ester",True,False,False,1
+2-Cyclopropyl-1H-indole,False,True,False,1
+(-)-Camphoric acid,True,False,False,1
+Acetoin,False,True,False,1
+Diethanolamine,False,False,True,1
+LPE(P-16:0),False,True,False,1
+Parvisoflavone B,True,False,False,1
+Neostigmine cation,True,False,False,1
+4-Hydroxyisoleucine,False,True,False,1
+Phenylacetylglutamine,False,True,False,1
+Phosphate,False,True,False,1
+Andrographiside,True,False,False,1
+Thymidine,True,False,False,1
+Isopropalin,True,False,False,1
+"6,15-Diketo-13,14-dihydroprostaglandin F1.alpha.",False,True,False,1
+"4-Phenyl-1H-benzo[f]isoindole-1,3(2H)-dione",True,False,False,1
+beta-Guanidinopropionic acid,True,False,False,1
+4-Allylcatechol,True,False,False,1
+omega-Muricholic acid,False,True,False,1
+12-Methyltridecanoic acid,False,True,False,1
+"1,6-Anhydro-.beta.-D-glucose",False,True,False,1
+"cis-8,11,14-Eicosatrienoic acid",True,False,False,1
+(2S)-3-(1-Benzyl-1H-imidazol-4-yl)-2-{[(tert-butoxy)carbonyl]amino}propanoic acid,True,False,False,1
+"(4-Oxo-1,3-thiazolidin-3-yl)acetic acid",True,False,False,1
+1-Methylguanine,False,True,False,1
+Alsterpaullone,False,True,False,1
+3-Sulfinoalanine,True,False,False,1
+Formoterol,False,False,True,1
+Deoxycytidine,False,True,False,1
+Quillaic acid,False,True,False,1
+Arg-Ala,False,True,False,1
+LysoPE(18:1(11Z)/0:0),False,True,False,1
+Taurodeoxycholic acid,False,False,True,1
+Cholic acid 7-sulfate,False,True,False,1
+Stercobilin,False,True,False,1
+MeAIB,False,True,False,1
+"1H-1,2,4-Triazol-3-amine",False,True,False,1
+Dodecylbenzenesulfonic acid,False,True,False,1
+Xanthinol,True,False,False,1
+Embelin,False,True,False,1
+3-AMINO-2-PIPERIDONE,False,True,False,1
+"Urea, N-[4-[4-amino-1-(1-methylethyl)-1H-pyrazolo[3,4-d]pyrimidin-3-yl]phenyl]-N'-[3-(trifluoromethyl)phenyl]-",True,False,False,1
+Indole-3-propionic acid,False,True,False,1
+M170T187,False,True,False,1
+Methyl 9H-purine-6-carboxylate,True,False,False,1
+"5-(2-Furyl)-4H-1,2,4-triazol-3-amine",False,True,False,1
+Isolithocholic acid,True,False,False,1
