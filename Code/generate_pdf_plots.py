@@ -6,8 +6,8 @@ matplotlib.use('Agg')
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-base_dir = os.path.abspath('.')
-output_dir = os.path.join(base_dir, 'ML', 'finalTry')
+base_dir = os.path.abspath('../output')
+output_dir = os.path.join(base_dir,"Figures")
 
 results_df = pd.read_csv(os.path.join(output_dir, 'model_validation_results.csv'))
 lasso_coefs = pd.read_csv(os.path.join(output_dir, 'lasso_selected_features.csv'))
