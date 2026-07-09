@@ -2,11 +2,11 @@ import pandas as pd
 import numpy as np
 import os
 
-output_dir = 'ML/'
+output_dir = '../output/'
 os.makedirs(output_dir, exist_ok=True)
 
-delta_df = pd.read_csv('ML/delta/delta_combined.csv', encoding='latin-1')
-groups_df = pd.read_csv('groups.txt', sep='\t', encoding='latin-1')
+delta_df = pd.read_csv('../inputData/delta_combined.csv', encoding='latin-1')
+groups_df = pd.read_csv('../inputData/samples.txt', sep='\t', encoding='latin-1')
 merged_df = pd.merge(delta_df, groups_df, on='donor')
 
 remove_samples = ['P57', 'P55', 'P76', 'P2']
